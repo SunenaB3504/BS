@@ -1,0 +1,68 @@
+[
+  {
+    "case": "In the early 1990s, the Indian telecom sector was dominated by government-owned companies. After the New Economic Policy (1991), the government allowed private and foreign companies to enter the market. This led to increased competition, lower call rates, and better services for consumers. Companies like Airtel, Vodafone, and Reliance Jio emerged as major players, investing in new technology and expanding network coverage. However, small regional operators struggled to survive due to intense competition and high investment requirements.",
+    "questions": [
+      "Identify the policy change described in the case and explain its impact on consumers and businesses.",
+      "What challenges did small businesses face after liberalisation in this sector?"
+    ],
+    "answers": [
+      "The policy change is liberalisation, which allowed private and foreign companies to enter the telecom sector. Its impact included increased competition, lower prices, improved services for consumers, and the need for businesses to innovate and invest in technology to survive.",
+      "Small businesses faced challenges such as intense competition from large firms, high investment requirements, and the need to continuously upgrade technology. Many could not survive and exited the market."
+    ]
+  },
+  {
+    "case": "Infosys, TCS, and Wipro are Indian IT companies that grew rapidly after 1991 due to globalisation. The removal of trade barriers and integration with the world economy allowed them to export software services to clients in the US and Europe. These companies adopted advanced technology, improved quality standards, and created millions of jobs in India. However, they also faced competition from global IT giants and had to constantly innovate to maintain their market position.",
+    "questions": [
+      "How did globalisation benefit the Indian IT industry?",
+      "What challenges did Indian IT companies face due to globalisation?"
+    ],
+    "answers": [
+      "Globalisation opened up international markets, increased demand for Indian IT services, encouraged adoption of advanced technology, and created job opportunities.",
+      "They faced increased competition from global companies, pressure to maintain quality, and the need for continuous innovation."
+    ]
+  },
+  {
+    "case": "With the rise of internet and digital payments, companies like Flipkart and Amazon transformed the Indian retail sector. E-commerce platforms offered consumers a wide range of products, home delivery, and secure payment options. Traditional retailers had to adapt by creating their own online stores or partnering with e-commerce platforms. The government also promoted digital payments through initiatives like Digital India.",
+    "questions": [
+      "Which dimension of business environment is highlighted in this case? Explain its impact.",
+      "How did government policy support technological change in this sector?"
+    ],
+    "answers": [
+      "The technological environment is highlighted. It led to the growth of e-commerce, changed consumer buying habits, and forced traditional businesses to adapt to new technology.",
+      "Government initiatives like Digital India promoted digital payments and internet access, supporting the growth of e-commerce."
+    ]
+  },
+  {
+    "case": "A consumer bought a washing machine from a reputed brand, but it stopped working within a month. The company refused to repair or replace it. The consumer filed a complaint under the Consumer Protection Act. The consumer court ordered the company to repair the machine and pay compensation. This case highlights the importance of legal environment in protecting consumer rights and ensuring fair business practices.",
+    "questions": [
+      "Which law helped the consumer in this case? What is its significance for business?",
+      "How does legal environment affect business decisions?"
+    ],
+    "answers": [
+      "The Consumer Protection Act helped the consumer. It ensures fair practices, protects consumer rights, and builds trust in businesses.",
+      "Businesses must comply with laws and regulations to avoid penalties and maintain reputation. Legal environment influences product quality, advertising, and customer service policies."
+    ]
+  },
+  {
+    "case": "Urban consumers in India are increasingly adopting healthy lifestyles, leading to a rise in demand for organic food products. Companies like Organic India and Patanjali have introduced a range of organic and natural products to meet this demand. They also use social media to promote health awareness and connect with consumers. Traditional food companies are also launching healthier product lines to adapt to changing preferences.",
+    "questions": [
+      "How did businesses respond to changes in the social environment?",
+      "Why is it important for businesses to monitor social environment trends?"
+    ],
+    "answers": [
+      "Businesses introduced organic and healthy products, used social media for promotion, and adapted their offerings to suit changing consumer preferences.",
+      "Monitoring social trends helps businesses anticipate changes in demand and stay competitive by offering relevant products and services."
+    ]
+  },
+  {
+    "case": "A young entrepreneur started a manufacturing business under the 'Make in India' initiative, receiving government support for funding, skill development, and market access. The business grew rapidly, created jobs, and began exporting products. Similarly, a tech startup benefited from 'Startup India' incentives, such as tax exemptions and easier compliance, enabling it to innovate and scale quickly.",
+    "questions": [
+      "How do government initiatives like 'Make in India' and 'Startup India' support business growth?",
+      "What is the broader impact of such initiatives on the Indian economy?"
+    ],
+    "answers": [
+      "They provide funding, skill development, tax benefits, and a supportive ecosystem, helping businesses grow, create jobs, and compete globally.",
+      "They boost manufacturing, innovation, entrepreneurship, and exports, contributing to overall economic growth and global competitiveness."
+    ]
+  }
+]

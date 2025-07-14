@@ -1,0 +1,642 @@
+{
+  "mcq": [
+    {
+      "question": "What is business?",
+      "options": [
+        "A non-economic activity",
+        "An activity for earning profit by producing or buying and selling goods/services",
+        "A government service",
+        "A charitable act"
+      ],
+      "answer": 1,
+      "explanation": "Business is an economic activity aimed at earning profit."
+    },
+    {
+      "question": "Which of the following is NOT an aid to trade?",
+      "options": [
+        "Banking",
+        "Insurance",
+        "Manufacturing",
+        "Transport"
+      ],
+      "answer": 2,
+      "explanation": "Manufacturing is an industry, not an aid to trade."
+    },
+    {
+      "question": "Which of the following is a primary industry?",
+      "options": [
+        "Banking",
+        "Mining",
+        "Construction",
+        "Retail"
+      ],
+      "answer": 1,
+      "explanation": "Mining is a primary (extractive) industry."
+    },
+    {
+      "question": "The main objective of business is:",
+      "options": [
+        "Social service",
+        "Profit earning",
+        "Employee welfare",
+        "Customer satisfaction"
+      ],
+      "answer": 1,
+      "explanation": "Profit earning is the main objective."
+    },
+    {
+      "question": "Which of the following is a social objective of business?",
+      "options": [
+        "Supplying quality goods",
+        "Maximizing profit",
+        "Increasing production",
+        "Reducing costs"
+      ],
+      "answer": 0,
+      "explanation": "Supplying quality goods is a social objective."
+    },
+    {
+      "question": "Business risk arises due to:",
+      "options": [
+        "Certainty of profit",
+        "Uncertainty of return",
+        "Fixed income",
+        "Government guarantee"
+      ],
+      "answer": 1,
+      "explanation": "Business risk is due to uncertainty of return."
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of business?",
+      "options": [
+        "Regular dealings",
+        "Element of risk",
+        "Non-economic activity",
+        "Profit motive"
+      ],
+      "answer": 2,
+      "explanation": "Business is an economic activity."
+    },
+    {
+      "question": "Which is an example of a tertiary industry?",
+      "options": [
+        "Agriculture",
+        "Banking",
+        "Mining",
+        "Manufacturing"
+      ],
+      "answer": 1,
+      "explanation": "Banking is a service (tertiary industry)."
+    },
+    {
+      "question": "Which of the following is a human objective of business?",
+      "options": [
+        "Employee welfare",
+        "Profit maximization",
+        "Market expansion",
+        "Product innovation"
+      ],
+      "answer": 0,
+      "explanation": "Employee welfare is a human objective."
+    },
+    {
+      "question": "Which is NOT a type of industry?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": 3,
+      "explanation": "Quaternary is not a standard industry type in this context."
+    },
+    {
+      "question": "Which of the following is a national objective of business?",
+      "options": [
+        "Creation of employment",
+        "Profit maximization",
+        "Employee welfare",
+        "Customer satisfaction"
+      ],
+      "answer": 0,
+      "explanation": "Creation of employment is a national objective."
+    },
+    {
+      "question": "Which is a global objective of business?",
+      "options": [
+        "Increase local sales",
+        "Raise international business standards",
+        "Reduce costs",
+        "Improve employee skills"
+      ],
+      "answer": 1,
+      "explanation": "Raising international standards is a global objective."
+    },
+    {
+      "question": "Which of the following is a difference between business and profession?",
+      "options": [
+        "Business is for profit, profession is for service",
+        "Business is regulated, profession is not",
+        "Profession does not require qualification",
+        "Business is always part-time"
+      ],
+      "answer": 0,
+      "explanation": "Business is for profit; profession is for service and requires qualification."
+    },
+    {
+      "question": "Which is NOT an economic objective of business?",
+      "options": [
+        "Earning profit",
+        "Creating customers",
+        "Supplying quality goods",
+        "Market expansion"
+      ],
+      "answer": 2,
+      "explanation": "Supplying quality goods is a social objective."
+    },
+    {
+      "question": "Which of the following is a cause of business risk?",
+      "options": [
+        "Natural causes",
+        "Human causes",
+        "Economic causes",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All these are causes of business risk."
+    },
+    {
+      "question": "Which is NOT a way to minimize business risk?",
+      "options": [
+        "Insurance",
+        "Diversification",
+        "Speculation",
+        "Careful planning"
+      ],
+      "answer": 2,
+      "explanation": "Speculation increases risk."
+    },
+    {
+      "question": "Which of the following is a non-economic activity?",
+      "options": [
+        "Teaching for free",
+        "Running a shop",
+        "Working in a factory",
+        "Selling goods online"
+      ],
+      "answer": 0,
+      "explanation": "Teaching for free is a non-economic activity."
+    },
+    {
+      "question": "Which is the correct distinction between trade and industry?",
+      "options": [
+        "Trade is buying/selling, industry is production",
+        "Trade is production, industry is buying/selling",
+        "Both are the same",
+        "Industry is a part of trade"
+      ],
+      "answer": 0,
+      "explanation": "Trade is buying/selling; industry is production."
+    },
+    {
+      "question": "Which of the following is an element of risk in business?",
+      "options": [
+        "Possibility of loss",
+        "Certainty of profit",
+        "Fixed income",
+        "No competition"
+      ],
+      "answer": 0,
+      "explanation": "Possibility of loss is an element of risk."
+    },
+    {
+      "question": "Which of the following is NOT a feature of business activities?",
+      "options": [
+        "Regular dealings",
+        "Profit motive",
+        "Non-economic activity",
+        "Element of risk"
+      ],
+      "answer": 2,
+      "explanation": "Business is an economic activity."
+    }
+  ],
+  "one_word": [
+    {
+      "question": "Define 'Entrepreneur'.",
+      "answer": "A person who starts and runs a business."
+    },
+    {
+      "question": "What is the main objective of business?",
+      "answer": "Profit earning."
+    },
+    {
+      "question": "Name any one aid to trade.",
+      "answer": "Banking."
+    },
+    {
+      "question": "What is the meaning of 'industry'?",
+      "answer": "Production of goods or services."
+    },
+    {
+      "question": "Give one example of a primary industry.",
+      "answer": "Agriculture."
+    },
+    {
+      "question": "What is a non-economic activity?",
+      "answer": "Activity not done for earning money."
+    },
+    {
+      "question": "Name one social objective of business.",
+      "answer": "Supplying quality goods."
+    },
+    {
+      "question": "What is 'risk' in business?",
+      "answer": "Possibility of loss."
+    },
+    {
+      "question": "Name any one cause of business risk.",
+      "answer": "Natural causes."
+    },
+    {
+      "question": "What is 'commerce'?",
+      "answer": "Trade and aids to trade."
+    },
+    {
+      "question": "What is 'trade'?",
+      "answer": "Buying and selling of goods/services."
+    },
+    {
+      "question": "Name any one characteristic of business.",
+      "answer": "Regular dealings."
+    },
+    {
+      "question": "What is a human objective of business?",
+      "answer": "Employee welfare."
+    },
+    {
+      "question": "What is a national objective of business?",
+      "answer": "Creation of employment."
+    },
+    {
+      "question": "What is a global objective of business?",
+      "answer": "Raise international standards."
+    },
+    {
+      "question": "Name any one secondary industry.",
+      "answer": "Manufacturing."
+    },
+    {
+      "question": "What is 'uncertainty of return'?",
+      "answer": "Profit is not guaranteed."
+    },
+    {
+      "question": "What is 'production or procurement'?",
+      "answer": "Making or buying goods for sale."
+    },
+    {
+      "question": "Name any one tertiary industry.",
+      "answer": "Banking."
+    },
+    {
+      "question": "What is the difference between business and profession?",
+      "answer": "Business is for profit; profession is for service."
+    }
+  ],
+  "assertion_reason": [
+    {
+      "assertion": "All businesses aim to earn profit.",
+      "reason": "Profit is necessary for survival and growth.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "assertion": "Business is an economic activity.",
+      "reason": "It is done to earn money.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "assertion": "Commerce includes only trade.",
+      "reason": "Aids to trade are not part of commerce.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 2
+    },
+    {
+      "assertion": "Industry is concerned with production of goods.",
+      "reason": "Industry includes extraction, manufacturing, and services.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 1
+    },
+    {
+      "assertion": "Business always involves risk.",
+      "reason": "Profit is guaranteed in business.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 2
+    },
+    {
+      "assertion": "Supplying quality goods is a social objective of business.",
+      "reason": "Business has responsibilities towards society.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "assertion": "All non-economic activities are business activities.",
+      "reason": "Business is done for earning money.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 3
+    },
+    {
+      "assertion": "Warehousing is an aid to trade.",
+      "reason": "It helps in storage of goods until they are sold.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 0
+    },
+    {
+      "assertion": "Profit is the only objective of business.",
+      "reason": "Business also has social and human objectives.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 3
+    },
+    {
+      "assertion": "Banking is a tertiary industry.",
+      "reason": "Tertiary industry provides services.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 0
+    }
+  ],
+  "short_answer": [
+    {
+      "question": "List any two characteristics of business activities.",
+      "answer": "Economic activity, regularity in dealings."
+    },
+    {
+      "question": "What is business?",
+      "answer": "An activity for earning profit by producing or buying and selling goods/services."
+    },
+    {
+      "question": "List any two economic objectives of business.",
+      "answer": "Earning profit, creating customers."
+    },
+    {
+      "question": "Name any two social objectives of business.",
+      "answer": "Supplying quality goods, fair trade practices."
+    },
+    {
+      "question": "What is meant by 'industry'?",
+      "answer": "Production of goods or services."
+    },
+    {
+      "question": "Distinguish between trade and industry.",
+      "answer": "Trade is buying/selling of goods/services; industry is production of goods/services."
+    },
+    {
+      "question": "What are the main types of industries?",
+      "answer": "Primary, secondary, and tertiary industries."
+    },
+    {
+      "question": "Give two examples of aids to trade.",
+      "answer": "Banking, insurance."
+    },
+    {
+      "question": "What is a non-economic activity?",
+      "answer": "Activity not done for earning money."
+    },
+    {
+      "question": "State any two characteristics of business activities.",
+      "answer": "Economic activity, regularity in dealings."
+    },
+    {
+      "question": "What is business risk?",
+      "answer": "Possibility of loss due to uncertainty of return."
+    },
+    {
+      "question": "Name any two causes of business risk.",
+      "answer": "Natural causes, human causes."
+    },
+    {
+      "question": "What is the main objective of business?",
+      "answer": "Profit earning."
+    },
+    {
+      "question": "What is a human objective of business?",
+      "answer": "Employee welfare."
+    },
+    {
+      "question": "What is a national objective of business?",
+      "answer": "Creation of employment."
+    },
+    {
+      "question": "What is a global objective of business?",
+      "answer": "Raise international standards."
+    },
+    {
+      "question": "What is the difference between business and profession?",
+      "answer": "Business is for profit; profession is for service and requires qualification."
+    },
+    {
+      "question": "What is meant by 'uncertainty of return'?",
+      "answer": "Profit is not guaranteed."
+    },
+    {
+      "question": "What is 'production or procurement' in business?",
+      "answer": "Making or buying goods for sale."
+    },
+    {
+      "question": "What is the role of profit in business?",
+      "answer": "Profit acts as a reward, source of capital, and measure of efficiency."
+    },
+    {
+      "question": "What is commerce?",
+      "answer": "Trade and aids to trade."
+    },
+    {
+      "question": "What is trade?",
+      "answer": "Buying and selling of goods/services."
+    },
+    {
+      "question": "What is a tertiary industry?",
+      "answer": "Industry that provides services, e.g., banking."
+    },
+    {
+      "question": "What is a secondary industry?",
+      "answer": "Industry involved in manufacturing, e.g., factories."
+    },
+    {
+      "question": "What is a primary industry?",
+      "answer": "Industry involved in extraction of natural resources, e.g., agriculture, mining."
+    },
+    {
+      "question": "What is the meaning of 'regular dealings' in business?",
+      "answer": "Business activities are carried out repeatedly and regularly."
+    },
+    {
+      "question": "What is meant by 'element of risk' in business?",
+      "answer": "Possibility of loss due to uncertain events."
+    },
+    {
+      "question": "What is meant by 'profit motive' in business?",
+      "answer": "The aim to earn profit from business activities."
+    },
+    {
+      "question": "What is meant by 'employee welfare' as a business objective?",
+      "answer": "Providing good working conditions and benefits to employees."
+    },
+    {
+      "question": "What is meant by 'creation of employment' as a business objective?",
+      "answer": "Providing job opportunities to people."
+    },
+    {
+      "question": "What is meant by 'raising international standards' as a business objective?",
+      "answer": "Improving quality to match global benchmarks."
+    }
+  ],
+  "long_answer": [
+    {
+      "question": "Explain the role of profit in business.",
+      "answer": "Profit in business serves several important roles:\n- Acts as a reward for risk-taking.\n- Provides a source of capital for growth and expansion.\n- Measures the efficiency and success of business operations.\n- Motivates entrepreneurs and employees.\n- Ensures survival and sustainability in a competitive market."
+    },
+    {
+      "question": "Explain the nature and characteristics of business activities.",
+      "answer": "Business activities are economic activities aimed at earning profit by producing or buying and selling goods and services. Key characteristics include:\n- Economic activity\n- Regular dealings\n- Profit motive\n- Element of risk\n- Involvement of production or procurement\n- Sale or exchange of goods/services\n- Dealing in goods and services\n- Uncertainty of return\n- Legality\nEach of these ensures that business is distinct from non-economic activities and is essential for economic development."
+    },
+    {
+      "question": "Discuss the objectives of business with suitable examples.",
+      "answer": "Business objectives can be classified as:\n- Economic objectives (e.g., earning profit, creating customers)\n- Social objectives (e.g., supplying quality goods, fair trade practices)\n- Human objectives (e.g., employee welfare)\n- National objectives (e.g., creation of employment, contributing to national income)\n- Global objectives (e.g., raising international standards)\nFor example:\n- A company may aim to maximize profit (economic)\n- Provide safe products (social)\n- Offer employee benefits (human)\n- Generate jobs (national)\n- Export goods to meet global standards (global)"
+    },
+    {
+      "question": "Explain the classification of industries with examples.",
+      "answer": "Industries are classified into three main types:\n- Primary industries (e.g., agriculture, mining): extraction of natural resources\n- Secondary industries (e.g., manufacturing, construction): processing and manufacturing\n- Tertiary industries (e.g., banking, transport): providing services\nFor example:\n- Mining is a primary industry\n- Manufacturing cars is a secondary industry\n- Banking is a tertiary industry"
+    },
+    {
+      "question": "Explain how management is both an art, a science, and a profession, with examples.",
+      "answer": "Management is considered an art because it requires personal skills, creativity, and practice in applying knowledge to achieve desired results.\n- It is a science because it is based on a systematic body of knowledge, principles, and theories developed through observation and experimentation.\n- Management is also regarded as a profession because it has a well-defined body of knowledge, requires specialized education and training, and follows a code of conduct, though it does not fully meet all criteria of a profession.\n- Thus, management combines elements of art, science, and profession."
+    },
+    {
+      "question": "Discuss the importance of management in modern organizations.",
+      "answer": "Management is important because it helps organizations:\n- Achieve group goals\n- Increase efficiency by reducing costs and improving productivity\n- Create a dynamic organization that can adapt to change\n- Help individuals achieve personal objectives\n- Contribute to the development of society by providing quality products, creating employment, and adopting new technology\n- Effective management ensures the success and growth of organizations in a competitive environment."
+    },
+    {
+      "question": "Differentiate between effectiveness and efficiency in management with examples.",
+      "answer": "Effectiveness in management means achieving the desired goals or completing tasks, while efficiency means achieving those goals with minimum resources and cost.\n- For example, if a manager produces 5000 units as targeted but at a high cost, they are effective but not efficient.\n- If they produce fewer units at a lower cost, they are efficient but not effective.\n- The best management balances both effectiveness and efficiency."
+    },
+    {
+      "question": "Describe the main functions of management.",
+      "answer": "The main functions of management are:\n- Planning (setting objectives and deciding how to achieve them)\n- Organizing (arranging resources and tasks)\n- Staffing (recruiting and developing employees)\n- Directing (leading and motivating people)\n- Controlling (monitoring performance and making corrections)\nThese functions are interrelated and performed by managers at all levels to achieve organizational goals."
+    },
+    {
+      "question": "Explain the multidimensional nature of management.",
+      "answer": "Management is multidimensional because it involves:\n- Managing work (tasks and activities to achieve goals)\n- Managing people (individuals and groups with diverse needs)\n- Managing operations (the process of transforming inputs into outputs)\nManagers must coordinate all these dimensions to ensure organizational success."
+    }
+  ],
+  "case_study": [
+    {
+      "question": "Case Study: A business faces losses due to natural calamities and market competition. Identify the types of business risks involved and suggest ways to minimize them.",
+      "answer": "Types of business risks involved:\n- Natural causes (e.g., floods, earthquakes)\n\n- Human/economic causes (e.g., competition, changes in demand)\n\nWays to minimize risks:\n- Take insurance against natural disasters\n\n- Diversify products/services\n\n- Use careful planning and forecasting\n\n- Maintain quality and customer relations\n\n- Avoid speculation\n\nThese steps help reduce the impact of both predictable and unpredictable risks."
+    },
+    {
+      "question": "Case Study: A new entrepreneur wants to start a business. What factors should they consider before starting, and how can they ensure success?",
+      "answer": "Factors to consider before starting a business:\n- Nature and scope of business\n\n- Market demand\n\n- Availability of capital\n\n- Legal requirements\n\n- Location\n\n- Availability of resources\n\n- Risk factors\n\n- Social responsibility\n\nTo ensure success:\n- Conduct market research\n\n- Plan carefully\n\n- Comply with laws\n\n- Maintain quality\n\n- Manage finances prudently\n\n- Focus on customer satisfaction"
+    },
+    {
+      "question": "Discuss the management principles illustrated by the Tata Group, ITC E-Choupal, or Namchi Designer Candles case study from the chapter.",
+      "answer": "The Tata Group demonstrates principles such as social responsibility, innovation, and effective management for growth and sustainability. ITC E-Choupal shows how technology and direct marketing can empower rural communities and fulfill corporate social responsibility. Namchi Designer Candles highlights entrepreneurship, women empowerment, and the importance of planning, organizing, and adapting to challenges. These cases illustrate how management principles are applied in real-world situations to achieve organizational and social objectives."
+    }
+  ],
+  "exercise": [
+    {
+      "type": "mcq",
+      "question": "Which of the following is NOT a characteristic of business?",
+      "options": [
+        "Regular dealings",
+        "Element of risk",
+        "Non-economic activity",
+        "Profit motive"
+      ],
+      "answer": 2,
+      "explanation": "Business is an economic activity."
+    },
+    {
+      "type": "one_word",
+      "question": "Define 'Entrepreneur'.",
+      "answer": "A person who starts and runs a business."
+    },
+    {
+      "type": "assertion_reason",
+      "assertion": "Business always involves risk.",
+      "reason": "Profit is guaranteed in business.",
+      "options": [
+        "Both A and R are true, and R is the correct explanation of A.",
+        "Both A and R are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "short_answer",
+      "question": "List any two economic objectives of business.",
+      "answer": "Earning profit, creating customers."
+    },
+    {
+      "type": "long_answer",
+      "question": "Explain the classification of industries with examples.",
+      "answer": "Industries are classified into three main types:\n- Primary industries (e.g., agriculture, mining): extraction of natural resources\n- Secondary industries (e.g., manufacturing, construction): processing and manufacturing\n- Tertiary industries (e.g., banking, transport): providing services\nFor example:\n- Mining is a primary industry\n- Manufacturing cars is a secondary industry\n- Banking is a tertiary industry"
+    },
+    {
+      "type": "case_study",
+      "question": "Case Study: A new entrepreneur wants to start a business. What factors should they consider before starting, and how can they ensure success?",
+      "answer": "Factors to consider before starting a business:\n- Nature and scope of business\n- Market demand\n- Availability of capital\n- Legal requirements\n- Location\n- Availability of resources\n- Risk factors\n- Social responsibility\nTo ensure success:\n- Conduct market research\n- Plan carefully\n- Comply with laws\n- Maintain quality\n- Manage finances prudently\n- Focus on customer satisfaction"
+    }
+  ]
+}

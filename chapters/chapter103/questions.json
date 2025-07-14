@@ -1,0 +1,854 @@
+{
+  "mcq": [
+    {
+      "question": "Which of the following is NOT a feature of business environment?",
+      "options": [
+        "Dynamic nature",
+        "Interrelatedness",
+        "Stability",
+        "Complexity"
+      ],
+      "answer": 2,
+      "explanation": "Stability is not a feature; business environment is dynamic and ever-changing."
+    },
+    {
+      "question": "Business environment includes which of the following dimensions?",
+      "options": [
+        "Economic, Social, Technological, Political, Legal",
+        "Internal, External, Global, Local",
+        "Financial, Operational, Strategic, Tactical",
+        "Physical, Virtual, Social, Economic"
+      ],
+      "answer": 0,
+      "explanation": "The five main dimensions are Economic, Social, Technological, Political, and Legal."
+    },
+    {
+      "question": "Which of the following best describes 'Liberalisation'?",
+      "options": [
+        "Removal of trade barriers and restrictions",
+        "Increase in government control",
+        "Nationalisation of industries",
+        "Imposing more regulations"
+      ],
+      "answer": 0,
+      "explanation": "Liberalisation means removing restrictions and barriers to allow free trade."
+    },
+    {
+      "question": "Privatisation refers to:",
+      "options": [
+        "Transfer of ownership from public to private sector",
+        "Increase in government ownership",
+        "Introduction of new taxes",
+        "Expansion of public sector"
+      ],
+      "answer": 0,
+      "explanation": "Privatisation is the transfer of ownership from government to private hands."
+    },
+    {
+      "question": "Which policy change led to increased competition in the Indian market after 1991?",
+      "options": [
+        "Globalisation",
+        "Nationalisation",
+        "Centralisation",
+        "Protectionism"
+      ],
+      "answer": 0,
+      "explanation": "Globalisation led to the entry of foreign firms and increased competition."
+    },
+    {
+      "question": "Which of the following is an impact of government policy changes on business?",
+      "options": [
+        "Increased competition",
+        "Reduced innovation",
+        "Decreased efficiency",
+        "Limited consumer choice"
+      ],
+      "answer": 0,
+      "explanation": "Policy changes led to more competition among businesses."
+    },
+    {
+      "question": "Which is NOT a component of the economic environment?",
+      "options": [
+        "Demographic trends",
+        "Interest rates",
+        "Inflation",
+        "Fiscal policy"
+      ],
+      "answer": 0,
+      "explanation": "Demographic trends are part of the social environment, not economic."
+    },
+    {
+      "question": "The process of integrating the domestic economy with the world economy is called:",
+      "options": [
+        "Globalisation",
+        "Privatisation",
+        "Liberalisation",
+        "Nationalisation"
+      ],
+      "answer": 0,
+      "explanation": "Globalisation integrates the domestic economy with the world economy."
+    },
+    {
+      "question": "Which of the following is a key term related to business environment?",
+      "options": [
+        "Deregulation",
+        "Centralisation",
+        "Isolation",
+        "Protectionism"
+      ],
+      "answer": 0,
+      "explanation": "Deregulation is a key term related to business environment reforms."
+    },
+    {
+      "question": "Which of the following is an example of technological environment?",
+      "options": [
+        "Adoption of e-commerce platforms",
+        "Change in tax rates",
+        "Change in government",
+        "Change in consumer preferences"
+      ],
+      "answer": 0,
+      "explanation": "Adoption of e-commerce is a technological change affecting business."
+    },
+    {
+      "question": "Which of the following is NOT an importance of business environment?",
+      "options": [
+        "Helps in identifying opportunities",
+        "Assists in planning and policy formulation",
+        "Ensures monopoly",
+        "Improves performance"
+      ],
+      "answer": 2,
+      "explanation": "Business environment does not ensure monopoly; it encourages competition."
+    },
+    {
+      "question": "Which dimension of business environment includes values, beliefs, and customs?",
+      "options": [
+        "Social environment",
+        "Economic environment",
+        "Technological environment",
+        "Legal environment"
+      ],
+      "answer": 0,
+      "explanation": "Values, beliefs, and customs are part of the social environment."
+    },
+    {
+      "question": "Which of the following is a feature of business environment?",
+      "options": [
+        "Relativity",
+        "Stability",
+        "Predictability",
+        "Uniformity"
+      ],
+      "answer": 0,
+      "explanation": "Business environment is relative; it differs from country to country."
+    },
+    {
+      "question": "Which of the following is NOT a reason for increased competition after 1991?",
+      "options": [
+        "Entry of foreign firms",
+        "Liberalisation",
+        "Privatisation",
+        "Nationalisation"
+      ],
+      "answer": 3,
+      "explanation": "Nationalisation is not a reason for increased competition; it increases government control."
+    },
+    {
+      "question": "Which of the following is an example of legal environment?",
+      "options": [
+        "Consumer Protection Act",
+        "Technological innovation",
+        "Social values",
+        "Economic reforms"
+      ],
+      "answer": 0,
+      "explanation": "Consumer Protection Act is a legal regulation affecting business."
+    },
+    {
+      "question": "Which of the following is NOT a policy change under New Economic Policy, 1991?",
+      "options": [
+        "Liberalisation",
+        "Privatisation",
+        "Globalisation",
+        "Nationalisation"
+      ],
+      "answer": 3,
+      "explanation": "Nationalisation is not a policy change under NEP 1991; the others are."
+    },
+    {
+      "question": "Which of the following is a benefit of understanding business environment?",
+      "options": [
+        "Helps in tapping useful resources",
+        "Ensures government control",
+        "Reduces innovation",
+        "Limits competition"
+      ],
+      "answer": 0,
+      "explanation": "Understanding the environment helps businesses tap useful resources."
+    },
+    {
+      "question": "Which of the following is NOT a dimension of business environment?",
+      "options": [
+        "Technological",
+        "Legal",
+        "Political",
+        "Operational"
+      ],
+      "answer": 3,
+      "explanation": "Operational is not a dimension; the others are."
+    },
+    {
+      "question": "Which of the following is an example of economic environment?",
+      "options": [
+        "Inflation rate",
+        "Religious beliefs",
+        "Technological innovation",
+        "Legal reforms"
+      ],
+      "answer": 0,
+      "explanation": "Inflation rate is an economic factor."
+    },
+    {
+      "question": "Which of the following is a result of globalisation?",
+      "options": [
+        "Increased foreign investment",
+        "Reduced competition",
+        "Decreased efficiency",
+        "Limited consumer choice"
+      ],
+      "answer": 0,
+      "explanation": "Globalisation led to increased foreign investment in India."
+    },
+    {
+      "question": "Which of the following is an example of political environment?",
+      "options": [
+        "Change in government policies",
+        "Inflation rate",
+        "Technological innovation",
+        "Religious beliefs"
+      ],
+      "answer": 0,
+      "explanation": "Political environment includes changes in government policies."
+    },
+    {
+      "question": "Which of the following is an example of social environment?",
+      "options": [
+        "Changing lifestyles",
+        "Interest rates",
+        "Tax reforms",
+        "Technological upgradation"
+      ],
+      "answer": 0,
+      "explanation": "Changing lifestyles are part of the social environment."
+    },
+    {
+      "question": "Environmental scanning helps a business to:",
+      "options": [
+        "Identify opportunities and threats",
+        "Increase government control",
+        "Reduce competition",
+        "Ensure monopoly"
+      ],
+      "answer": 0,
+      "explanation": "Environmental scanning helps identify opportunities and threats."
+    },
+    {
+      "question": "Which of the following is a benefit of environmental scanning?",
+      "options": [
+        "Early warning signals",
+        "Reduced innovation",
+        "Limited consumer choice",
+        "Increased government regulation"
+      ],
+      "answer": 0,
+      "explanation": "Environmental scanning provides early warning signals to businesses."
+    },
+    {
+      "question": "Which of the following terms is associated with reduction of government stake in public sector enterprises?",
+      "options": [
+        "Disinvestment",
+        "Liberalisation",
+        "Globalisation",
+        "Privatisation"
+      ],
+      "answer": 0,
+      "explanation": "Disinvestment means reducing government stake in public sector enterprises."
+    },
+    {
+      "question": "FDI stands for:",
+      "options": [
+        "Foreign Direct Investment",
+        "Foreign Domestic Investment",
+        "Federal Direct Investment",
+        "Foreign Development Initiative"
+      ],
+      "answer": 0,
+      "explanation": "FDI stands for Foreign Direct Investment."
+    },
+    {
+      "question": "Which international organisation's policies have influenced India's economic reforms?",
+      "options": [
+        "WTO",
+        "WHO",
+        "UNICEF",
+        "IMF"
+      ],
+      "answer": 0,
+      "explanation": "WTO policies have influenced India's economic reforms."
+    },
+    {
+      "question": "Which of the following is a recent government initiative impacting business environment?",
+      "options": [
+        "Make in India",
+        "License Raj",
+        "Nationalisation",
+        "Import Substitution"
+      ],
+      "answer": 0,
+      "explanation": "Make in India is a recent government initiative impacting business."
+    },
+    {
+      "question": "Which of the following is a threat that may arise from business environment?",
+      "options": [
+        "Entry of new competitors",
+        "Increase in profits",
+        "Expansion of market",
+        "Technological advancement"
+      ],
+      "answer": 0,
+      "explanation": "Entry of new competitors is a threat from the business environment."
+    },
+    {
+      "question": "Which of the following is an opportunity created by changes in business environment?",
+      "options": [
+        "Emergence of new markets",
+        "Increase in taxes",
+        "Stringent regulations",
+        "Decline in demand"
+      ],
+      "answer": 0,
+      "explanation": "Emergence of new markets is an opportunity created by changes in the environment."
+    },
+    {
+      "question": "Which of the following is an impact of policy changes on small businesses?",
+      "options": [
+        "Increased competition from large firms",
+        "Reduced access to technology",
+        "Decreased efficiency",
+        "Limited consumer choice"
+      ],
+      "answer": 0,
+      "explanation": "Policy changes increased competition for small businesses."
+    },
+    {
+      "question": "Which of the following is a key term related to business environment reforms?",
+      "options": [
+        "Deregulation",
+        "Centralisation",
+        "Isolation",
+        "Protectionism"
+      ],
+      "answer": 0,
+      "explanation": "Deregulation is a key term related to business environment reforms."
+    },
+    {
+      "question": "Which of the following is a direct result of technological environment changes?",
+      "options": [
+        "Automation of production",
+        "Change in government",
+        "Change in tax rates",
+        "Change in consumer preferences"
+      ],
+      "answer": 0,
+      "explanation": "Automation of production is a direct result of technological changes."
+    }
+  ],
+  "one_word": [
+    {"question": "What is the process of removing trade barriers called?", "answer": "Liberalisation"},
+    {"question": "What is the transfer of ownership from public to private sector called?", "answer": "Privatisation"},
+    {"question": "What is the integration of domestic economy with the world economy called?", "answer": "Globalisation"},
+    {"question": "Which year was the New Economic Policy introduced in India?", "answer": "1991"},
+    {"question": "Name the five dimensions of business environment.", "answer": "Economic, Social, Technological, Political, Legal"},
+    {"question": "Which environment includes values, beliefs, and customs?", "answer": "Social environment"},
+    {"question": "Which environment includes government policies and political stability?", "answer": "Political environment"},
+    {"question": "Which environment includes laws and regulations?", "answer": "Legal environment"},
+    {"question": "Which environment includes factors like inflation and interest rates?", "answer": "Economic environment"},
+    {"question": "Which environment includes innovation and technology adoption?", "answer": "Technological environment"},
+    {"question": "What is the process of analyzing and monitoring the environment called?", "answer": "Environmental scanning"},
+    {"question": "Give one example of a government initiative impacting business environment.", "answer": "Make in India"},
+    {"question": "What is the term for reduction of government stake in public sector enterprises?", "answer": "Disinvestment"},
+    {"question": "What does FDI stand for?", "answer": "Foreign Direct Investment"},
+    {"question": "Which international organization influences India's economic reforms?", "answer": "WTO"},
+    {"question": "Name a key benefit of understanding business environment.", "answer": "Identifying opportunities"},
+    {"question": "What is a key threat from business environment?", "answer": "Entry of new competitors"},
+    {"question": "What is a key opportunity from business environment?", "answer": "Emergence of new markets"},
+    {"question": "What is the main impact of policy changes on small businesses?", "answer": "Increased competition"},
+    {"question": "What is the term for removal of government controls and regulations?", "answer": "Deregulation"},
+    {"question": "Which act protects consumers in India?", "answer": "Consumer Protection Act"},
+    {"question": "What is the main feature of business environment?", "answer": "Dynamic"},
+    {"question": "What is the main importance of business environment?", "answer": "Helps in planning"},
+    {"question": "What is the process of finding early warning signals called?", "answer": "Environmental scanning"},
+    {"question": "What is the main result of globalisation?", "answer": "Increased foreign investment"},
+    {"question": "What is the main reason for increased competition after 1991?", "answer": "Entry of foreign firms"},
+    {"question": "What is the main component of economic environment?", "answer": "Interest rates"},
+    {"question": "What is the main component of social environment?", "answer": "Changing lifestyles"},
+    {"question": "What is the main component of technological environment?", "answer": "E-commerce"},
+    {"question": "What is the main component of political environment?", "answer": "Government policies"},
+    {"question": "What is the main component of legal environment?", "answer": "Laws and regulations"}
+    ,
+    {"question": "Who is the main architect of India's 1991 economic reforms?", "answer": "Dr. Manmohan Singh"},
+    {"question": "Which policy led to the entry of foreign companies in India?", "answer": "Globalisation"},
+    {"question": "Which term refers to the removal of licensing requirements?", "answer": "Delicensing"},
+    {"question": "Which year marked the beginning of LPG reforms in India?", "answer": "1991"},
+    {"question": "Which sector was most affected by privatisation?", "answer": "Public sector"},
+    {"question": "Which act was amended to protect consumer rights in the new environment?", "answer": "Consumer Protection Act"},
+    {"question": "Which is a recent example of technological change in business?", "answer": "Digital payments"},
+    {"question": "Which is a key impact of liberalisation on Indian business?", "answer": "Increased competition"},
+    {"question": "Which is a key impact of globalisation on Indian consumers?", "answer": "Wider choice"},
+    {"question": "Which is a key impact of privatisation on efficiency?", "answer": "Improved efficiency"},
+    {"question": "Which is a key challenge for small businesses after 1991?", "answer": "Competition from MNCs"},
+    {"question": "Which is a key opportunity for Indian IT sector after 1991?", "answer": "Global markets"},
+    {"question": "Which is a key example of a business adapting to environment?", "answer": "Adoption of e-commerce"},
+    {"question": "Which is a key reason for environmental scanning?", "answer": "Early warning signals"},
+    {"question": "Which is a key feature of business environment?", "answer": "Interrelatedness"},
+    {"question": "Which is a key dimension of business environment that includes beliefs and customs?", "answer": "Social environment"},
+    {"question": "Which is a key dimension of business environment that includes inflation and interest rates?", "answer": "Economic environment"},
+    {"question": "Which is a key dimension of business environment that includes government stability?", "answer": "Political environment"},
+    {"question": "Which is a key dimension of business environment that includes new inventions?", "answer": "Technological environment"},
+    {"question": "Which is a key dimension of business environment that includes laws and court decisions?", "answer": "Legal environment"},
+    {"question": "Which is a key example of a government initiative for business growth?", "answer": "Startup India"},
+    {"question": "Which is a key example of a business opportunity created by policy change?", "answer": "Foreign investment"},
+    {"question": "Which is a key example of a threat from business environment?", "answer": "Entry of new competitors"},
+    {"question": "Which is a key example of a business using technology to grow?", "answer": "Online retail"},
+    {"question": "Which is a key example of a business using social environment to its advantage?", "answer": "Customised products"},
+    {"question": "Which is a key example of a business using economic environment to its advantage?", "answer": "Export incentives"},
+    {"question": "Which is a key example of a business using legal environment to its advantage?", "answer": "Intellectual property rights"},
+    {"question": "Which is a key example of a business using political environment to its advantage?", "answer": "Government subsidies"}
+  ],
+  "assertion_reason": [
+    {
+      "assertion": "Liberalisation has increased competition in the Indian market.",
+      "reason": "Liberalisation removed trade barriers and allowed entry of foreign firms.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Liberalisation led to increased competition by allowing foreign firms to enter the Indian market, and the Reason correctly explains the Assertion."
+    },
+    {
+      "assertion": "Privatisation has improved efficiency in public sector enterprises.",
+      "reason": "Privatisation leads to professional management and accountability.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Privatisation brings in professional management, which improves efficiency; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Globalisation has provided wider choices to Indian consumers.",
+      "reason": "Globalisation led to the entry of multinational companies in India.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Entry of MNCs due to globalisation increased product choices for consumers; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Technological environment affects business operations.",
+      "reason": "Adoption of e-commerce platforms is a result of technological changes.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Technological changes like e-commerce directly impact business operations; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Business environment is dynamic in nature.",
+      "reason": "Business environment keeps changing due to various internal and external factors.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "The dynamic nature is due to constant changes in environment; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Environmental scanning helps in identifying opportunities and threats.",
+      "reason": "Environmental scanning provides early warning signals to businesses.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Early warning signals help identify opportunities and threats; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Social environment includes values, beliefs, and customs.",
+      "reason": "Changing lifestyles are part of the social environment.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Values, beliefs, customs, and lifestyles are all part of the social environment; Reason supports Assertion."
+    },
+    {
+      "assertion": "Economic environment includes factors like inflation and interest rates.",
+      "reason": "Inflation and interest rates affect business decisions.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Economic environment is defined by such factors, which influence business; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Legal environment affects business operations.",
+      "reason": "Laws and regulations like the Consumer Protection Act impact business practices.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Legal environment includes laws that directly affect business; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Political environment includes government policies and stability.",
+      "reason": "Changes in government policies can impact business growth.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Political environment is defined by policies and stability; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Policy changes after 1991 created opportunities for Indian IT sector.",
+      "reason": "Globalisation opened global markets for Indian IT companies.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Globalisation allowed Indian IT to access global markets; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Entry of MNCs increased competition for small businesses.",
+      "reason": "Small businesses have to compete with large, resourceful firms after 1991 reforms.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Entry of MNCs increased competition, especially for small businesses; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Business environment is interrelated.",
+      "reason": "A change in one dimension affects other dimensions of business environment.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "All dimensions of business environment are interrelated; Reason correctly explains Assertion."
+    },
+    {
+      "assertion": "Government initiatives like 'Startup India' promote business growth.",
+      "reason": "Such initiatives provide support and incentives to new businesses.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion.", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.", "Assertion is true but Reason is false.", "Assertion is false but Reason is true."],
+      "answer": 0,
+      "explanation": "Government initiatives support business growth; Reason correctly explains Assertion."
+    }
+  ],
+  "short_answer": [
+    {
+      "question": "What is business environment?",
+      "answer": "Business environment refers to all external forces, factors, and institutions that influence the functioning of a business. It includes economic, social, technological, political, and legal dimensions."
+    },
+    {
+      "question": "List the five dimensions of business environment.",
+      "answer": "The five dimensions are: Economic, Social, Technological, Political, and Legal environment."
+    },
+    {
+      "question": "What is the importance of business environment?",
+      "answer": "Business environment helps firms identify opportunities and threats, assists in planning and policy formulation, and enables them to adapt to changes for better performance."
+    },
+    {
+      "question": "Define liberalisation.",
+      "answer": "Liberalisation means removing government restrictions and barriers to allow free movement of goods, services, and resources, making the economy more open and competitive."
+    },
+    {
+      "question": "What is privatisation?",
+      "answer": "Privatisation is the transfer of ownership, management, and control of public sector enterprises to the private sector, aiming to improve efficiency and competitiveness."
+    },
+    {
+      "question": "Explain globalisation.",
+      "answer": "Globalisation is the process of integrating the domestic economy with the world economy, leading to free flow of goods, services, technology, and capital across borders."
+    },
+    {
+      "question": "What is environmental scanning?",
+      "answer": "Environmental scanning is the process of analyzing and monitoring the external environment to identify opportunities and threats affecting the business."
+    },
+    {
+      "question": "How did the New Economic Policy of 1991 impact Indian business?",
+      "answer": "The New Economic Policy of 1991 introduced liberalisation, privatisation, and globalisation (LPG), leading to increased competition, foreign investment, and technological advancement in Indian business."
+    },
+    {
+      "question": "What is the role of technological environment in business?",
+      "answer": "Technological environment includes innovations and advancements that affect business operations, such as automation, e-commerce, and digital payments, helping firms improve efficiency and reach."
+    },
+    {
+      "question": "Give an example of a recent government initiative impacting business environment.",
+      "answer": "'Make in India' is a recent initiative aimed at encouraging companies to manufacture in India and boost investment, innovation, and skill development."
+    },
+    {
+      "question": "What is the significance of legal environment for business?",
+      "answer": "Legal environment consists of laws, regulations, and court decisions that affect business operations, such as the Consumer Protection Act, ensuring fair practices and consumer rights."
+    },
+    {
+      "question": "How does social environment influence business?",
+      "answer": "Social environment includes values, beliefs, customs, and lifestyles of people, which influence consumer preferences and demand for products and services."
+    },
+    {
+      "question": "What is the impact of globalisation on Indian consumers?",
+      "answer": "Globalisation has provided Indian consumers with wider choices, better quality products, and access to international brands."
+    },
+    {
+      "question": "What is disinvestment?",
+      "answer": "Disinvestment refers to the sale or liquidation of government stake in public sector enterprises, often to raise resources or improve efficiency."
+    },
+    {
+      "question": "How does economic environment affect business?",
+      "answer": "Economic environment includes factors like inflation, interest rates, and fiscal policy, which influence business decisions, costs, and profitability."
+    },
+    {
+      "question": "What is the role of WTO in India's economic reforms?",
+      "answer": "The World Trade Organization (WTO) has influenced India's economic reforms by promoting free trade, reducing tariffs, and encouraging integration with the global economy."
+    },
+    {
+      "question": "What is the main challenge for small businesses after 1991 reforms?",
+      "answer": "The main challenge is increased competition from large domestic and multinational companies due to liberalisation and globalisation."
+    },
+    {
+      "question": "How does political environment impact business?",
+      "answer": "Political environment includes government policies, stability, and support, which can create opportunities or pose threats to business growth and operations."
+    },
+    {
+      "question": "What is the benefit of understanding business environment for managers?",
+      "answer": "It helps managers anticipate changes, make informed decisions, and adapt strategies to ensure business success."
+    },
+    {
+      "question": "Explain the concept of deregulation.",
+      "answer": "Deregulation is the removal of government controls and regulations in order to encourage competition and efficiency in the market."
+    }
+    ,
+    {
+      "question": "What is the difference between internal and external environment?",
+      "answer": "Internal environment refers to factors within the business such as employees, management, and company culture, while external environment includes all outside forces like economic, social, political, technological, and legal factors that affect the business." 
+    },
+    {
+      "question": "Name two recent technological changes that have impacted Indian business.",
+      "answer": "Digital payments and e-commerce platforms are two recent technological changes that have significantly impacted Indian business operations and consumer behavior." 
+    },
+    {
+      "question": "What is the role of government policy in business environment?",
+      "answer": "Government policy shapes the business environment by setting rules, regulations, and incentives that can create opportunities or pose challenges for businesses." 
+    },
+    {
+      "question": "Give an example of a business adapting to social environment.",
+      "answer": "A business offering customised products to suit changing consumer lifestyles is an example of adapting to the social environment." 
+    },
+    {
+      "question": "What is the significance of consumer protection laws for business?",
+      "answer": "Consumer protection laws ensure fair practices, build consumer trust, and protect the rights of buyers, which is essential for long-term business success." 
+    },
+    {
+      "question": "How does globalisation affect small businesses?",
+      "answer": "Globalisation increases competition for small businesses by allowing entry of multinational companies, but also provides opportunities to access global markets." 
+    },
+    {
+      "question": "What is the impact of privatisation on the public sector?",
+      "answer": "Privatisation leads to improved efficiency, professional management, and accountability in public sector enterprises, but may also result in job losses and reduced government control." 
+    },
+    {
+      "question": "What is the role of economic environment in business decision making?",
+      "answer": "Economic environment factors like inflation, interest rates, and fiscal policy directly influence business costs, pricing, investment, and profitability decisions." 
+    },
+    {
+      "question": "Name a key challenge and a key opportunity for Indian business after 1991 reforms.",
+      "answer": "A key challenge is increased competition from MNCs, while a key opportunity is access to global markets and advanced technology." 
+    }
+  ],
+  "long_answer": [
+    {
+      "question": "Explain the features and importance of business environment.",
+      "answer": "Business environment refers to all external forces, factors, and institutions that influence the functioning of a business. Its main features include: (1) Totality of external forces, (2) Dynamic nature, (3) Relativity (varies from country to country), (4) Interrelatedness of different factors, and (5) Complexity. The importance of business environment lies in helping firms identify opportunities and threats, assisting in planning and policy formulation, improving performance, and enabling businesses to adapt to changes. It also provides early warning signals and helps in tapping useful resources. Understanding the environment is crucial for managers to make informed decisions and ensure the long-term success of the business."
+    },
+    {
+      "question": "Describe the five dimensions of business environment with examples.",
+      "answer": "The five dimensions of business environment are: (1) Economic environment (e.g., inflation, interest rates, fiscal policy), (2) Social environment (e.g., values, beliefs, customs, changing lifestyles), (3) Technological environment (e.g., automation, e-commerce, digital payments), (4) Political environment (e.g., government policies, political stability), and (5) Legal environment (e.g., laws, regulations, Consumer Protection Act). Each dimension affects business decisions and operations. For example, technological advancements can lead to automation, while changes in government policy can create new opportunities or threats for businesses."
+    },
+    {
+      "question": "Discuss the impact of New Economic Policy (1991) on Indian business.",
+      "answer": "The New Economic Policy (NEP) of 1991 introduced three major reforms: Liberalisation, Privatisation, and Globalisation (LPG). Liberalisation removed trade barriers and restrictions, making the economy more open and competitive. Privatisation transferred ownership of public sector enterprises to the private sector, improving efficiency and accountability. Globalisation integrated the Indian economy with the world, leading to increased foreign investment, entry of multinational companies, and wider choices for consumers. The NEP led to increased competition, technological advancement, and growth in sectors like IT, but also posed challenges for small businesses due to increased competition from large firms and MNCs."
+    },
+    {
+      "question": "What is environmental scanning? Explain its process and benefits.",
+      "answer": "Environmental scanning is the process of analyzing and monitoring the external environment to identify opportunities and threats affecting the business. The process involves collecting information about economic, social, technological, political, and legal factors, interpreting the data, and using it for strategic planning. The benefits of environmental scanning include providing early warning signals, helping businesses adapt to changes, identifying opportunities for growth, and minimizing risks. It enables managers to make proactive decisions and maintain a competitive edge in the market."
+    },
+    {
+      "question": "Explain the role of technological and legal environment in shaping business decisions.",
+      "answer": "Technological environment includes innovations and advancements such as automation, e-commerce, and digital payments, which help businesses improve efficiency, reduce costs, and reach new markets. Adopting new technology can be a source of competitive advantage. Legal environment consists of laws, regulations, and court decisions that affect business operations, such as the Consumer Protection Act and intellectual property rights. Compliance with legal requirements ensures fair practices, protects consumer rights, and avoids legal penalties. Both environments require businesses to stay updated and adapt their strategies accordingly."
+    },
+    {
+      "question": "Analyse the challenges and opportunities created by policy changes after 1991 for Indian businesses.",
+      "answer": "Policy changes after 1991, including liberalisation, privatisation, and globalisation, created both challenges and opportunities for Indian businesses. Opportunities include access to global markets, increased foreign investment, technological advancement, and growth in sectors like IT and services. Challenges include increased competition from multinational companies, pressure on small businesses, and the need for continuous innovation. Businesses had to adapt to a rapidly changing environment, upgrade technology, and improve efficiency to survive and grow. Overall, the reforms made Indian businesses more competitive and integrated with the global economy."
+    },
+    {
+      "question": "Discuss the significance of government initiatives like 'Make in India' and 'Startup India' for business growth.",
+      "answer": "Government initiatives such as 'Make in India' and 'Startup India' aim to promote manufacturing, innovation, and entrepreneurship in India. 'Make in India' encourages companies to manufacture locally, boosting investment, skill development, and job creation. 'Startup India' provides support, incentives, and a conducive environment for new businesses to grow. These initiatives help create a vibrant business ecosystem, attract foreign investment, and enhance India's global competitiveness. They also address challenges faced by startups and MSMEs, fostering inclusive and sustainable economic growth."
+    },
+    {
+      "question": "Explain the process and importance of environmental scanning for business strategy.",
+      "answer": "Environmental scanning involves systematically collecting and analyzing information about external factors that can affect a business. The process includes identifying relevant environmental factors, gathering data, interpreting trends, and using insights for strategic planning. Its importance lies in helping businesses anticipate changes, identify opportunities and threats, and make proactive decisions to maintain competitiveness. Regular scanning enables firms to adapt quickly to market shifts and regulatory changes, ensuring long-term success." 
+    },
+    {
+      "question": "Evaluate the impact of globalisation on Indian consumers and producers.",
+      "answer": "Globalisation has provided Indian consumers with wider choices, better quality products, and access to international brands. For producers, it has opened up global markets, increased competition, and encouraged adoption of advanced technology. However, it has also posed challenges for small producers who face competition from large multinational companies. Overall, globalisation has led to improved efficiency, innovation, and consumer satisfaction, but requires businesses to continuously upgrade and adapt." 
+    },
+    {
+      "question": "Describe the challenges faced by small businesses in the post-1991 business environment.",
+      "answer": "After the 1991 reforms, small businesses in India faced increased competition from large domestic and multinational companies. Challenges include limited access to technology, need for continuous innovation, pressure to reduce costs, and compliance with new regulations. Despite these challenges, small businesses also gained opportunities to access new markets and benefit from government support schemes. Success in the new environment requires adaptability, innovation, and efficient resource management." 
+    },
+    {
+      "question": "Discuss the role of legal environment in protecting consumer and business interests.",
+      "answer": "The legal environment, including laws like the Consumer Protection Act and intellectual property rights, plays a crucial role in safeguarding the interests of both consumers and businesses. It ensures fair trade practices, protects consumer rights, and provides a framework for resolving disputes. For businesses, compliance with legal requirements builds trust, reduces risk of penalties, and enhances reputation. A strong legal environment is essential for sustainable business growth and consumer confidence." 
+    }
+  ],
+  "case_studies": [
+    {
+      "title": "Liberalisation and Competition: The Story of Indian Telecom",
+      "case": "In the early 1990s, the Indian telecom sector was dominated by government-owned companies. After the New Economic Policy (1991), the government allowed private and foreign companies to enter the market. This led to increased competition, lower call rates, and better services for consumers. Companies like Airtel, Vodafone, and Reliance Jio emerged as major players, investing in new technology and expanding network coverage. However, small regional operators struggled to survive due to intense competition and high investment requirements.",
+      "questions": [
+        {
+          "question": "Identify the policy change described in the case and explain its impact on consumers and businesses.",
+          "answer": "The policy change is liberalisation, which allowed private and foreign companies to enter the telecom sector. Its impact included increased competition, lower prices, improved services for consumers, and the need for businesses to innovate and invest in technology to survive."
+        },
+        {
+          "question": "What challenges did small businesses face after liberalisation in this sector?",
+          "answer": "Small businesses faced challenges such as intense competition from large firms, high investment requirements, and the need to continuously upgrade technology. Many could not survive and exited the market."
+        }
+      ]
+    },
+    {
+      "title": "Globalisation and Indian IT Industry",
+      "case": "Infosys, TCS, and Wipro are Indian IT companies that grew rapidly after 1991 due to globalisation. The removal of trade barriers and integration with the world economy allowed them to export software services to clients in the US and Europe. These companies adopted advanced technology, improved quality standards, and created millions of jobs in India. However, they also faced competition from global IT giants and had to constantly innovate to maintain their market position.",
+      "questions": [
+        {
+          "question": "How did globalisation benefit the Indian IT industry?",
+          "answer": "Globalisation opened up international markets, increased demand for Indian IT services, encouraged adoption of advanced technology, and created job opportunities."
+        },
+        {
+          "question": "What challenges did Indian IT companies face due to globalisation?",
+          "answer": "They faced increased competition from global companies, pressure to maintain quality, and the need for continuous innovation."
+        }
+      ]
+    },
+    {
+      "title": "Technological Change: E-commerce Boom in India",
+      "case": "With the rise of internet and digital payments, companies like Flipkart and Amazon transformed the Indian retail sector. E-commerce platforms offered consumers a wide range of products, home delivery, and secure payment options. Traditional retailers had to adapt by creating their own online stores or partnering with e-commerce platforms. The government also promoted digital payments through initiatives like Digital India.",
+      "questions": [
+        {
+          "question": "Which dimension of business environment is highlighted in this case? Explain its impact.",
+          "answer": "The technological environment is highlighted. It led to the growth of e-commerce, changed consumer buying habits, and forced traditional businesses to adapt to new technology."
+        },
+        {
+          "question": "How did government policy support technological change in this sector?",
+          "answer": "Government initiatives like Digital India promoted digital payments and internet access, supporting the growth of e-commerce."
+        }
+      ]
+    },
+    {
+      "title": "Legal Environment: Consumer Protection in Action",
+      "case": "A consumer bought a washing machine from a reputed brand, but it stopped working within a month. The company refused to repair or replace it. The consumer filed a complaint under the Consumer Protection Act. The consumer court ordered the company to repair the machine and pay compensation. This case highlights the importance of legal environment in protecting consumer rights and ensuring fair business practices.",
+      "questions": [
+        {
+          "question": "Which law helped the consumer in this case? What is its significance for business?",
+          "answer": "The Consumer Protection Act helped the consumer. It ensures fair practices, protects consumer rights, and builds trust in businesses."
+        },
+        {
+          "question": "How does legal environment affect business decisions?",
+          "answer": "Businesses must comply with laws and regulations to avoid penalties and maintain reputation. Legal environment influences product quality, advertising, and customer service policies."
+        }
+      ]
+    },
+    {
+      "title": "Social Environment: Changing Lifestyles and Business Response",
+      "case": "Urban consumers in India are increasingly adopting healthy lifestyles, leading to a rise in demand for organic food products. Companies like Organic India and Patanjali have introduced a range of organic and natural products to meet this demand. They also use social media to promote health awareness and connect with consumers. Traditional food companies are also launching healthier product lines to adapt to changing preferences.",
+      "questions": [
+        {
+          "question": "How did businesses respond to changes in the social environment?",
+          "answer": "Businesses introduced organic and healthy products, used social media for promotion, and adapted their offerings to suit changing consumer preferences."
+        },
+        {
+          "question": "Why is it important for businesses to monitor social environment trends?",
+          "answer": "Monitoring social trends helps businesses anticipate changes in demand and stay competitive by offering relevant products and services."
+        }
+      ]
+    },
+    {
+      "title": "Government Initiatives: Make in India and Startup India",
+      "case": "A young entrepreneur started a manufacturing business under the 'Make in India' initiative, receiving government support for funding, skill development, and market access. The business grew rapidly, created jobs, and began exporting products. Similarly, a tech startup benefited from 'Startup India' incentives, such as tax exemptions and easier compliance, enabling it to innovate and scale quickly.",
+      "questions": [
+        {
+          "question": "How do government initiatives like 'Make in India' and 'Startup India' support business growth?",
+          "answer": "They provide funding, skill development, tax benefits, and a supportive ecosystem, helping businesses grow, create jobs, and compete globally."
+        },
+        {
+          "question": "What is the broader impact of such initiatives on the Indian economy?",
+          "answer": "They boost manufacturing, innovation, entrepreneurship, and exports, contributing to overall economic growth and global competitiveness."
+        }
+      ]
+    }
+  ],
+  "qa": [
+    {
+      "question": "What is business environment? List its main features.",
+      "answer": "Business environment refers to all external forces, factors, and institutions that influence the functioning of a business. Its main features include totality of external forces, dynamic nature, relativity, interrelatedness, and complexity."
+    },
+    {
+      "question": "Why is understanding business environment important for managers?",
+      "answer": "It helps managers identify opportunities and threats, assists in planning and policy formulation, improves performance, and enables adaptation to changes."
+    },
+    {
+      "question": "Name and explain the five dimensions of business environment.",
+      "answer": "The five dimensions are: Economic (e.g., inflation, interest rates), Social (values, beliefs, customs), Technological (automation, e-commerce), Political (government policies, stability), and Legal (laws, regulations)."
+    },
+    {
+      "question": "What is liberalisation? How did it impact Indian business after 1991?",
+      "answer": "Liberalisation means removing government restrictions and barriers to allow free movement of goods, services, and resources. After 1991, it increased competition, improved efficiency, and opened the Indian market to global players."
+    },
+    {
+      "question": "Define privatisation and state its effects on the Indian economy.",
+      "answer": "Privatisation is the transfer of ownership and management of public sector enterprises to the private sector. It led to improved efficiency, accountability, and competitiveness in the Indian economy."
+    },
+    {
+      "question": "What is globalisation? Mention its impact on Indian consumers and producers.",
+      "answer": "Globalisation is the integration of the domestic economy with the world economy. It provided Indian consumers with wider choices and better quality, and gave producers access to global markets but also increased competition."
+    },
+    {
+      "question": "Explain the process and benefits of environmental scanning.",
+      "answer": "Environmental scanning involves collecting and analyzing information about external factors affecting business. It provides early warning signals, helps adapt to changes, identifies opportunities, and minimizes risks."
+    },
+    {
+      "question": "How do technological and legal environments influence business decisions?",
+      "answer": "Technological environment drives innovation and efficiency, while legal environment ensures compliance, fair practices, and consumer protection. Both require businesses to adapt strategies."
+    },
+    {
+      "question": "Discuss the challenges and opportunities created by policy changes after 1991 for Indian businesses.",
+      "answer": "Opportunities include access to global markets, foreign investment, and technology. Challenges include increased competition, pressure on small businesses, and the need for continuous innovation."
+    },
+    {
+      "question": "What is the significance of government initiatives like 'Make in India' and 'Startup India'?",
+      "answer": "These initiatives promote manufacturing, innovation, and entrepreneurship, provide support and incentives, create jobs, and enhance India's global competitiveness."
+    },
+    {
+      "question": "How does social environment affect business? Give an example.",
+      "answer": "Social environment includes values, beliefs, and lifestyles, which influence consumer preferences. For example, rising health awareness has increased demand for organic products."
+    },
+    {
+      "question": "What is the role of WTO in India's economic reforms?",
+      "answer": "The World Trade Organization (WTO) promotes free trade, reduces tariffs, and encourages integration with the global economy, influencing India's reforms."
+    },
+    {
+      "question": "How does globalisation affect small businesses in India?",
+      "answer": "It increases competition from multinational companies but also provides opportunities to access global markets and advanced technology."
+    },
+    {
+      "question": "Explain the importance of consumer protection laws for business.",
+      "answer": "Consumer protection laws ensure fair practices, build trust, and protect buyers' rights, which is essential for long-term business success."
+    },
+    {
+      "question": "What is disinvestment? Why is it done?",
+      "answer": "Disinvestment is the sale or liquidation of government stake in public sector enterprises, often to raise resources or improve efficiency."
+    },
+    {
+      "question": "How do government policies shape the business environment?",
+      "answer": "Government policies set rules, regulations, and incentives that create opportunities or pose challenges for businesses."
+    },
+    {
+      "question": "What is the impact of technological change on Indian business?",
+      "answer": "Technological change leads to automation, e-commerce, digital payments, and improved efficiency, requiring businesses to adapt and innovate."
+    },
+    {
+      "question": "Describe a key challenge and a key opportunity for Indian business after 1991 reforms.",
+      "answer": "A key challenge is increased competition from MNCs; a key opportunity is access to global markets and advanced technology."
+    }
+  ]
+}

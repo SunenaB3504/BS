@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Business Studies Webapp</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📘</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Business Studies</h1>
+    <div class="tts-global-controls" style="text-align:center;margin-bottom:12px;">
+      <button id="ttsStartGlobalNav" class="tts-btn-main">🔊 Start TTS</button>
+      <button id="ttsStopGlobalNav" class="tts-btn-main">⏹️ Stop TTS</button>
+    </div>
+    <nav>
+      <select id="chapterSelect" onchange="changeChapter()">
+        <option value="101">Chapter 1</option>
+        <option value="102">Chapter 2</option>
+        <option value="103">Chapter 3</option>
+      </select>
+      <button onclick="showSection('mindmap')">Mindmap</button>
+      <button onclick="showSection('flashcards')">Flashcards</button>
+      <button onclick="showSection('mcq')">MCQs</button>
+      <button onclick="showSection('one_word')">One Word</button>
+      <button onclick="showSection('assertion_reason')">Assertion-Reason</button>
+      <button onclick="showSection('short_answer')">Short Answer</button>
+      <button onclick="showSection('long_answer')">Long Answer</button>
+      <button onclick="showSection('case_study')">Case Studies</button>
+      
+      <button onclick="showSection('qa')">Q&amp;A</button>
+    </nav>
+    <div id="content"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

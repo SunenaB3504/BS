@@ -1,0 +1,57 @@
+Business Studies Webapp Plan (Printable Summary)
+===============================================
+
+1. Modular Structure
+--------------------
+- Each chapter in its own folder: mindmap.json, flashcards.json, questions.json, exercises.json
+- Each feature (mindmap, flashcards, questions, exercises) has its own JS component
+- All content is in editable JSON files
+- The entire app is built using only simple HTML, JavaScript, and CSS (no frameworks or build tools)
+
+2. Exam-Aligned Content
+-----------------------
+- All questions and exercises follow the official sample paper and marking scheme
+- Types: One Word Questions, MCQ, assertion-reason, short answer, long/case-based
+- **Per chapter, include:**
+  - 20 Multiple-Choice Questions (MCQs)
+  - 20 One Word Questions
+  - 10 Assertion-Reason Questions
+  - 10 Short Answer Questions
+  - 5 Long Answer / Case-Based Questions
+- Instant feedback and scoring for all interactive items
+
+3. Coverage Checklist
+---------------------
+- For each chapter, create a checklist of all textbook points
+- Mark off each point as it is added to the app
+- Optionally, add a coverage file mapping book points to app content
+
+4. Accessibility
+----------------
+- Text-to-Speech (TTS) with Start/Stop buttons on every page
+- Supports students who prefer listening or have reading difficulties
+
+5. Easy Maintenance & Scalability
+---------------------------------
+- Update or add chapters/features by editing JSON files
+- Components can be reused for other subjects
+
+6. Moodle Ready
+---------------
+- All files are static (HTML/CSS/JS/JSON)
+- Zip and upload to Moodle for online access
+
+7. Workflow
+-----------
+- Scaffold folders/files as above
+- Develop each JS component to load and render its JSON data
+- Use the checklist to ensure full textbook coverage
+- Review and update as needed
+
+8. Benefits
+-----------
+- Complete exam coverage
+- Interactive and accessible
+- Easy to update and expand
+- Ready for online learning platforms
+- Simple, framework-free code for maximum compatibility

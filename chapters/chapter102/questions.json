@@ -1,0 +1,342 @@
+{
+  "mcq": [
+    {"question": "Who is known as the Father of Scientific Management?", "options": ["Henry Fayol", "F.W. Taylor", "Elton Mayo", "Peter Drucker"], "answer": 1, "explanation": "F.W. Taylor is regarded as the Father of Scientific Management."},
+    {"question": "Which of the following is NOT a principle of management given by Fayol?", "options": ["Unity of Command", "Scalar Chain", "Harmony, not Discord", "Order"], "answer": 2, "explanation": "Harmony, not Discord is a principle given by Taylor, not Fayol."},
+    {"question": "Which principle states that each employee should receive orders from only one superior?", "options": ["Unity of Direction", "Unity of Command", "Scalar Chain", "Discipline"], "answer": 1, "explanation": "Unity of Command ensures no confusion in reporting relationships."},
+    {"question": "Which technique of Taylor involves paying higher wages to more productive workers?", "options": ["Time Study", "Motion Study", "Differential Piece Wage System", "Functional Foremanship"], "answer": 2, "explanation": "Differential Piece Wage System rewards higher output with higher pay."},
+    {"question": "Which of the following is a feature of management principles?", "options": ["Rigid", "Universal Applicability", "Absolute", "Unchangeable"], "answer": 1, "explanation": "Management principles are universally applicable but flexible."},
+    {"question": "Who gave the 14 principles of management?", "options": ["F.W. Taylor", "Henry Fayol", "Peter Drucker", "Elton Mayo"], "answer": 1, "explanation": "Henry Fayol gave the 14 principles of management."},
+    {"question": "Which principle emphasizes team spirit?", "options": ["Equity", "Esprit de Corps", "Remuneration", "Order"], "answer": 1, "explanation": "Esprit de Corps means promoting team spirit and unity."},
+    {"question": "Which of the following is NOT a technique of scientific management?", "options": ["Functional Foremanship", "Time Study", "Motion Study", "Unity of Direction"], "answer": 3, "explanation": "Unity of Direction is a principle, not a technique."},
+    {"question": "Which principle of Fayol suggests fair and just treatment to employees?", "options": ["Equity", "Order", "Discipline", "Remuneration"], "answer": 0, "explanation": "Equity means fairness and kindness by managers."},
+    {"question": "Which principle of Taylor focuses on scientific study rather than tradition?", "options": ["Science, not Rule of Thumb", "Harmony, not Discord", "Cooperation, not Individualism", "Development of Each Person"], "answer": 0, "explanation": "Taylor emphasized scientific methods over traditional ways."},
+    {"question": "Which principle of Fayol relates to a clear line of authority from top to bottom?", "options": ["Scalar Chain", "Order", "Discipline", "Remuneration"], "answer": 0, "explanation": "Scalar Chain is the chain of command in an organization."},
+    {"question": "Which of the following is an example of 'Order' as per Fayol?", "options": ["Paying fair wages", "Right person in the right job", "Encouraging initiative", "Promoting team spirit"], "answer": 1, "explanation": "Order means people and materials are in the right place at the right time."},
+    {"question": "Which principle of Taylor encourages training and development of employees?", "options": ["Development of Each Person", "Cooperation, not Individualism", "Time Study", "Motion Study"], "answer": 0, "explanation": "Taylor emphasized developing each worker to their greatest efficiency."},
+    {"question": "Which principle of Fayol is violated if an employee gets instructions from two bosses?", "options": ["Unity of Direction", "Unity of Command", "Scalar Chain", "Centralization"], "answer": 1, "explanation": "Unity of Command means one boss for one employee."},
+    {"question": "Which of the following is NOT a feature of management principles?", "options": ["Formed by practice and experimentation", "Flexible", "Absolute", "General guidelines"], "answer": 2, "explanation": "Management principles are not absolute; they are flexible."},
+    {"question": "Which technique of Taylor involves analyzing movements to eliminate waste?", "options": ["Time Study", "Motion Study", "Method Study", "Functional Foremanship"], "answer": 1, "explanation": "Motion Study analyzes movements to improve efficiency."},
+    {"question": "Which principle of Fayol stresses the importance of long-term employment?", "options": ["Stability of Tenure", "Remuneration", "Order", "Equity"], "answer": 0, "explanation": "Stability of Tenure means retaining employees for skill development."},
+    {"question": "Which principle of Taylor focuses on cooperation between management and workers?", "options": ["Cooperation, not Individualism", "Harmony, not Discord", "Science, not Rule of Thumb", "Development of Each Person"], "answer": 0, "explanation": "Cooperation, not Individualism is a key Taylor principle."},
+    {"question": "Which principle of Fayol means subordination of individual interest to general interest?", "options": ["Unity of Direction", "Subordination of Individual Interest", "Remuneration", "Order"], "answer": 1, "explanation": "Organization's interest should prevail over individual interest."},
+    {"question": "Which of the following is a benefit of using management principles?", "options": ["Ensures optimum use of resources", "Rigid decision-making", "Discourages innovation", "Promotes individualism"], "answer": 0, "explanation": "Management principles help in optimum use of resources."}
+    ,
+    {"question": "Which principle of Fayol states that work should be divided among individuals and groups to ensure specialization?", "options": ["Division of Work", "Equity", "Order", "Remuneration"], "answer": 0, "explanation": "Division of Work leads to specialization and efficiency."},
+    {"question": "Which principle of Fayol means managers must have the right to give orders and the power to exact obedience?", "options": ["Authority and Responsibility", "Discipline", "Remuneration", "Order"], "answer": 0, "explanation": "Authority and Responsibility go hand in hand for effective management."},
+    {"question": "Which principle of Fayol emphasizes obedience and respect for agreements?", "options": ["Discipline", "Equity", "Order", "Remuneration"], "answer": 0, "explanation": "Discipline is essential for the smooth functioning of an organization."},
+    {"question": "Which principle of Fayol means each group of activities with the same objective must have one head and one plan?", "options": ["Unity of Direction", "Unity of Command", "Scalar Chain", "Order"], "answer": 0, "explanation": "Unity of Direction ensures coordinated efforts towards a single goal."},
+    {"question": "Which principle of Fayol means the interests of the organization must prevail over individual interests?", "options": ["Subordination of Individual Interest", "Remuneration", "Order", "Equity"], "answer": 0, "explanation": "Organizational interest is above personal interest."},
+    {"question": "Which principle of Fayol relates to fair payment for services rendered?", "options": ["Remuneration", "Order", "Equity", "Discipline"], "answer": 0, "explanation": "Remuneration ensures fair compensation for work done."},
+    {"question": "Which principle of Fayol deals with the degree to which authority is concentrated or dispersed?", "options": ["Centralization and Decentralization", "Scalar Chain", "Order", "Equity"], "answer": 0, "explanation": "Centralization and Decentralization must be balanced as per the situation."},
+    {"question": "Which principle of Fayol means long-term employment is important for skill development?", "options": ["Stability of Tenure", "Remuneration", "Order", "Equity"], "answer": 0, "explanation": "Stability of Tenure reduces labor turnover and builds experience."},
+    {"question": "Which principle of Fayol encourages employees to take initiative?", "options": ["Initiative", "Order", "Equity", "Remuneration"], "answer": 0, "explanation": "Initiative boosts motivation and innovation."},
+    {"question": "Which of the following is a technique of Taylor's scientific management?", "options": ["Motion Study", "Unity of Command", "Equity", "Order"], "answer": 0, "explanation": "Motion Study is a technique to improve efficiency by eliminating unnecessary movements."},
+    {"question": "Which of the following best describes 'Method Study' in Taylor's techniques?", "options": ["Finding the best way to do a job", "Paying higher wages", "Analyzing movements", "Setting standards"], "answer": 0, "explanation": "Method Study is about determining the most efficient way to perform a task."},
+    {"question": "Which of the following is a real-world example of social responsibility in business from the chapter?", "options": ["Lijjat Papad", "Toyota", "Biocon", "Infosys"], "answer": 0, "explanation": "Lijjat Papad empowers women and supports communities."},
+    {"question": "Which of the following is a distinction between principles and techniques in management?", "options": ["Principles are guidelines, techniques are methods", "Both are the same", "Techniques are rigid, principles are flexible", "Techniques are guidelines, principles are methods"], "answer": 0, "explanation": "Principles guide decision-making, techniques are step-by-step methods."},
+    {"question": "Which of the following is a feature of management principles?", "options": ["Formed by practice and experimentation", "Absolute", "Unchangeable", "None of these"], "answer": 0, "explanation": "Management principles are formed by observation and experience."},
+    {"question": "Which of the following is an application-based MCQ: A manager wants to increase productivity. Which Taylor technique should he use?", "options": ["Time Study and Differential Piece Wage System", "Unity of Command", "Order", "Remuneration"], "answer": 0, "explanation": "Time Study and Differential Piece Wage System help increase productivity."},
+    {"question": "Which company is known for applying management principles for global innovation?", "options": ["Toyota", "Lijjat Papad", "Biocon", "Infosys"], "answer": 0, "explanation": "Toyota is known for its innovative management practices."}
+  ],
+  "one_word": [
+    {"question": "Who is known as the Father of Scientific Management?", "answer": "F.W. Taylor"},
+    {"question": "Who is known as the Father of General Management?", "answer": "Henri Fayol"},
+    {"question": "How many principles of management did Fayol give?", "answer": "14"},
+    {"question": "Which principle of Fayol means team spirit?", "answer": "Esprit de Corps"},
+    {"question": "Which principle of Taylor emphasizes scientific study over tradition?", "answer": "Science, not Rule of Thumb"},
+    {"question": "Which principle of Fayol means fair and just treatment?", "answer": "Equity"},
+    {"question": "Which principle of Fayol means one boss for one employee?", "answer": "Unity of Command"},
+    {"question": "Which principle of Fayol means clear line of authority?", "answer": "Scalar Chain"},
+    {"question": "Which principle of Fayol means right person in the right job?", "answer": "Order"},
+    {"question": "Which principle of Fayol means fair payment?", "answer": "Remuneration"},
+    {"question": "Which principle of Fayol means long-term employment?", "answer": "Stability of Tenure"},
+    {"question": "Which principle of Fayol means subordination of individual interest?", "answer": "Subordination of Individual Interest"},
+    {"question": "Which principle of Fayol means employees should be encouraged to take initiative?", "answer": "Initiative"},
+    {"question": "Which principle of Taylor means cooperation between management and workers?", "answer": "Cooperation, not Individualism"},
+    {"question": "Which principle of Taylor means harmony between management and workers?", "answer": "Harmony, not Discord"},
+    {"question": "Which technique of Taylor involves higher pay for higher output?", "answer": "Differential Piece Wage System"},
+    {"question": "Which technique of Taylor involves analyzing movements?", "answer": "Motion Study"},
+    {"question": "Which technique of Taylor involves finding the best way to do a job?", "answer": "Method Study"},
+    {"question": "Which technique of Taylor involves determining standard time for a task?", "answer": "Time Study"},
+    {"question": "Which technique of Taylor involves setting standards for every activity?", "answer": "Standardization"},
+    {"question": "Which company is known for applying management principles for global innovation?", "answer": "Toyota"},
+    {"question": "Who is associated with scientific management in India?", "answer": "Kiran Mazumdar Shaw"},
+    {"question": "Which organization empowers women and supports communities as an example of social responsibility?", "answer": "Lijjat Papad"},
+    {"question": "What is the main feature of management principles?", "answer": "Flexibility"},
+    {"question": "What is the main benefit of management principles?", "answer": "Optimum use of resources"},
+    {"question": "What is the difference between principles and techniques?", "answer": "Principles are guidelines, techniques are methods"},
+    {"question": "What is the difference between principles and values?", "answer": "Principles are technical guidelines, values are moral/ethical standards"},
+    {"question": "Which principle of Fayol means each group of activities with the same objective must have one head and one plan?", "answer": "Unity of Direction"},
+    {"question": "Which principle of Fayol deals with the degree to which authority is concentrated or dispersed?", "answer": "Centralization and Decentralization"},
+    {"question": "Which principle of Fayol means managers must have the right to give orders and the power to exact obedience?", "answer": "Authority and Responsibility"}
+  ],
+  "assertion_reason": [
+    {
+      "assertion": "Assertion: Principles of management are flexible.",
+      "reason": "Reason: They can be modified by managers as per the situation.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both statements are true and Reason correctly explains why principles are flexible."
+    },
+    {
+      "assertion": "Assertion: Fayol's principle of Unity of Command avoids confusion.",
+      "reason": "Reason: It states that each employee should receive orders from only one superior.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Taylor's principle of 'Science, not Rule of Thumb' leads to efficiency.",
+      "reason": "Reason: It is based on scientific study rather than tradition.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Principles of management are universal.",
+      "reason": "Reason: They apply to all organizations, but the degree of application may vary.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Remuneration is a principle of management.",
+      "reason": "Reason: It means fair payment for services rendered.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Taylor's Differential Piece Wage System motivates workers.",
+      "reason": "Reason: It provides higher pay for higher output.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Fayol's principle of Equity ensures fairness.",
+      "reason": "Reason: Managers should be kind and fair to subordinates.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Motion Study is a technique of Taylor's scientific management.",
+      "reason": "Reason: It involves analyzing movements to eliminate unnecessary motions.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    },
+    {
+      "assertion": "Assertion: Principles of management are rigid and cannot be changed.",
+      "reason": "Reason: They are formed by practice and experimentation.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 2,
+      "explanation": "Assertion is false; Reason is true. Principles are flexible, not rigid."
+    },
+    {
+      "assertion": "Assertion: Fayol's principle of Order means right person in the right job.",
+      "reason": "Reason: It ensures people and materials are in the right place at the right time.",
+      "options": ["Both Assertion and Reason are true and Reason is the correct explanation of Assertion", "Both Assertion and Reason are true but Reason is not the correct explanation of Assertion", "Assertion is true but Reason is false", "Assertion is false but Reason is true"],
+      "answer": 0,
+      "explanation": "Both are true and Reason explains the Assertion."
+    }
+  ],
+  "short_answer": [
+    {
+      "question": "What are management principles?",
+      "answer": "Management principles are broad and general guidelines for managerial decision-making and behavior. They help managers handle complex situations systematically."
+    },
+    {
+      "question": "State any two features of management principles.",
+      "answer": "(1) Universal applicability: They apply to all organizations. (2) Flexibility: They can be modified as per the situation."
+    },
+    {
+      "question": "Why are management principles called flexible?",
+      "answer": "Because they are not rigid and can be changed or adapted as per the needs of the situation."
+    },
+    {
+      "question": "How are management principles formed?",
+      "answer": "They are developed through observation, experimentation, and personal experience of managers."
+    },
+    {
+      "question": "Distinguish between principles and techniques of management.",
+      "answer": "Principles are guidelines for decision-making; techniques are step-by-step methods to achieve goals."
+    },
+    {
+      "question": "What is the significance of management principles?",
+      "answer": "They provide managers with useful insights, help in scientific decision-making, and ensure optimum use of resources."
+    },
+    {
+      "question": "Explain the principle of 'Unity of Command'.",
+      "answer": "It states that each employee should receive orders from only one superior to avoid confusion and conflict."
+    },
+    {
+      "question": "What is meant by the principle of 'Order'?",
+      "answer": "It means people and materials should be in the right place at the right time for smooth functioning."
+    },
+    {
+      "question": "State the principle of 'Equity'.",
+      "answer": "Managers should be kind and fair to subordinates, ensuring justice and equal treatment."
+    },
+    {
+      "question": "What is 'Division of Work' as per Fayol?",
+      "answer": "Work should be divided among individuals and groups to ensure specialization and efficiency."
+    },
+    {
+      "question": "What is 'Remuneration' as a principle of management?",
+      "answer": "It means fair payment for services rendered to ensure satisfaction and motivation."
+    },
+    {
+      "question": "Explain Taylor's principle of 'Science, not Rule of Thumb'.",
+      "answer": "Decisions should be based on scientific study and analysis, not on guesswork or tradition."
+    },
+    {
+      "question": "What is 'Motion Study' in scientific management?",
+      "answer": "It involves analyzing movements of workers and machines to eliminate unnecessary motions and improve efficiency."
+    },
+    {
+      "question": "What is the difference between 'Centralization' and 'Decentralization'?",
+      "answer": "Centralization means concentration of decision-making at top level; decentralization means distribution of authority to lower levels."
+    },
+    {
+      "question": "Why is 'Stability of Tenure' important?",
+      "answer": "It reduces labor turnover, builds employee loyalty, and enhances organizational performance."
+    },
+    {
+      "question": "What is the principle of 'Initiative'?",
+      "answer": "Employees should be encouraged to take initiative and suggest improvements for organizational growth."
+    },
+    {
+      "question": "What is the main benefit of following management principles?",
+      "answer": "They ensure optimum use of resources, increase efficiency, and help achieve organizational goals."
+    }
+  ],
+  "long_answer": [
+    {
+      "question": "Explain the nature and significance of management principles.",
+      "answer": "Management principles are broad and general guidelines for managerial decision-making and behavior. Their nature includes universality (applicable to all organizations), flexibility (can be adapted to different situations), general guidelines (not rigid rules), and are formed by practice and experimentation. The significance of management principles lies in providing useful insights to managers, ensuring scientific decision-making, optimum use of resources, effective administration, and helping managers adapt to changing environments. They also form the basis for management training, education, and research."
+    },
+    {
+      "question": "Discuss the 14 principles of management given by Henry Fayol with examples.",
+      "answer": "Fayol's 14 principles are: (1) Division of Work: Specialization increases output. (2) Authority and Responsibility: Managers must have authority to give orders. (3) Discipline: Employees must obey and respect rules. (4) Unity of Command: One employee should receive orders from one superior. (5) Unity of Direction: One head and one plan for a group of activities. (6) Subordination of Individual Interest: Organizational interest above personal interest. (7) Remuneration: Fair payment for services. (8) Centralization and Decentralization: Balance of decision-making power. (9) Scalar Chain: Clear line of authority from top to bottom. (10) Order: People and materials in the right place at the right time. (11) Equity: Kindness and justice to employees. (12) Stability of Tenure: Long-term employment for efficiency. (13) Initiative: Employees should be encouraged to take initiative. (14) Esprit de Corps: Promoting team spirit. For example, 'Unity of Command' avoids confusion, and 'Order' ensures smooth functioning."
+    },
+    {
+      "question": "Explain the principles and techniques of scientific management given by F.W. Taylor.",
+      "answer": "Taylor's scientific management emphasizes scientific study over tradition. Principles include: (1) Science, not Rule of Thumb: Decisions based on scientific study. (2) Harmony, not Discord: Cooperation between management and workers. (3) Cooperation, not Individualism: Teamwork is essential. (4) Development of Each Person: Training and development maximize potential. Techniques include: (a) Functional Foremanship: Eight specialists supervise different aspects of work. (b) Standardization and Simplification: Uniform methods and tools. (c) Method Study: Finding the best way to do a job. (d) Motion Study: Analyzing movements to eliminate waste. (e) Time Study: Determining standard time for a task. (f) Differential Piece Wage System: Higher pay for higher output. For example, 'Motion Study' increases efficiency by reducing unnecessary movements."
+    },
+    {
+      "question": "Distinguish between management principles, techniques, and values.",
+      "answer": "Management principles are general guidelines for decision-making and behavior (e.g., Unity of Command). Techniques are step-by-step methods to achieve goals (e.g., Time Study, Budgeting). Values are moral or ethical standards that guide behavior (e.g., honesty, integrity). Principles are technical and flexible, techniques are practical methods, and values are ethical or social in nature. For example, 'Order' is a principle, 'Motion Study' is a technique, and 'fairness' is a value."
+    },
+    {
+      "question": "How do management principles help in optimum utilization of resources and effective administration?",
+      "answer": "Management principles guide managers in allocating and utilizing resources efficiently, avoiding wastage, and ensuring that every activity is performed in the best possible way. For example, the principle of 'Division of Work' leads to specialization, which increases productivity and quality. 'Order' ensures that people and materials are in the right place, reducing delays and confusion. By following these principles, organizations can achieve their objectives effectively and efficiently."
+    },
+    {
+      "question": "Explain the application of management principles in real-life business situations with examples.",
+      "answer": "Management principles are applied in various real-life situations. For example, Toyota applies the principle of 'Quality Control' and 'Continuous Improvement' to maintain global standards. Lijjat Papad demonstrates 'Social Responsibility' and 'Participative Management' by empowering women and supporting communities. In a manufacturing firm, 'Unity of Command' avoids confusion by ensuring each worker reports to only one superior. 'Motion Study' is used to improve workflow and efficiency in factories. These examples show how management principles help organizations achieve success and adapt to changing environments."
+    }
+  ],
+  "case_studies": [
+    {
+      "case": "A company noticed that its workers were following different methods to complete the same task, leading to confusion and inefficiency. The management decided to analyze all methods and implement the best one for everyone.",
+      "questions": [
+        "Which principle or technique of management is being applied here?",
+        "How will this decision benefit the organization?"
+      ],
+      "answers": [
+        "The technique applied is 'Method Study' from Taylor's scientific management, which involves finding the best way to perform a task.",
+        "This will lead to standardization, reduce confusion, improve efficiency, and ensure uniformity in work methods across the organization."
+      ]
+    },
+    {
+      "case": "In a large manufacturing firm, a worker receives instructions from both the production manager and the sales manager, resulting in confusion and mistakes.",
+      "questions": [
+        "Which principle of management is violated in this situation?",
+        "What should the management do to resolve this issue?"
+      ],
+      "answers": [
+        "The principle of 'Unity of Command' is violated, as each employee should receive orders from only one superior.",
+        "Management should ensure that reporting relationships are clear and each employee has only one direct superior to avoid confusion."
+      ]
+    },
+    {
+      "case": "A manager ensures that all employees are treated fairly and kindly, and that there is no discrimination in promotions or rewards.",
+      "questions": [
+        "Which principle of management is being followed?",
+        "What is the impact of this principle on the organization?"
+      ],
+      "answers": [
+        "The principle of 'Equity' is being followed.",
+        "It creates a positive work environment, increases employee morale, and reduces conflicts."
+      ]
+    },
+    {
+      "case": "A business places the right person in the right job and ensures that materials are available at the right place and time.",
+      "questions": [
+        "Which principle of management is illustrated here?",
+        "Why is this principle important?"
+      ],
+      "answers": [
+        "The principle of 'Order' is illustrated.",
+        "It ensures smooth functioning of the organization and optimum utilization of resources."
+      ]
+    },
+    {
+      "case": "A company encourages its employees to suggest new ideas and take initiatives for improvement.",
+      "questions": [
+        "Which principle of management is being promoted?",
+        "How does this benefit the organization?"
+      ],
+      "answers": [
+        "The principle of 'Initiative' is being promoted.",
+        "It boosts employee motivation, fosters innovation, and leads to organizational growth."
+      ]
+    },
+    {
+      "case": "A manager divides the work among employees based on their specialization to improve efficiency.",
+      "questions": [
+        "Which principle of management is applied here?",
+        "What is the advantage of this principle?"
+      ],
+      "answers": [
+        "The principle of 'Division of Work' is applied.",
+        "It leads to specialization, higher productivity, and better quality of work."
+      ]
+    },
+    {
+      "case": "A company regularly analyzes the movements of workers and machines to eliminate unnecessary motions and improve workflow.",
+      "questions": [
+        "Which technique of scientific management is being used?",
+        "What is the benefit of this technique?"
+      ],
+      "answers": [
+        "The technique of 'Motion Study' is being used.",
+        "It increases efficiency by reducing wastage of time and effort."
+      ]
+    },
+    {
+      "case": "A business ensures that the interests of the organization are given priority over the interests of individual employees.",
+      "questions": [
+        "Which principle of management is being followed?",
+        "Why is this principle necessary?"
+      ],
+      "answers": [
+        "The principle of 'Subordination of Individual Interest to General Interest' is being followed.",
+        "It ensures organizational goals are achieved and prevents conflicts of interest."
+      ]
+    },
+    {
+      "case": "A company provides job security and long-term employment to its workers, allowing them to develop their skills over time.",
+      "questions": [
+        "Which principle of management is demonstrated here?",
+        "How does this benefit the organization?"
+      ],
+      "answers": [
+        "The principle of 'Stability of Tenure' is demonstrated.",
+        "It reduces labor turnover, builds employee loyalty, and enhances organizational performance."
+      ]
+    }
+  ]
+}

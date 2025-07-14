@@ -1,0 +1,173 @@
+{
+  "title": "Nature and Purpose of Business",
+  "nodes": [
+    {
+      "title": "1. Introduction to Business",
+      "children": [
+        {
+          "title": "Definition of Business",
+          "children": [
+            { "title": "Business refers to human activities directed towards producing or acquiring wealth through buying and selling goods." }
+          ]
+        },
+        {
+          "title": "Economic and Non-Economic Activities",
+          "children": [
+            { "title": "Economic: Activities done to earn money (e.g., business, profession, employment)." },
+            { "title": "Non-Economic: Activities done out of love, sympathy, patriotism, etc." }
+          ]
+        },
+        {
+          "title": "Business vs. Profession vs. Employment",
+          "children": [
+            { "title": "Business: Production/distribution of goods/services for profit." },
+            { "title": "Profession: Specialized services for a fee (e.g., doctor, lawyer)." },
+            { "title": "Employment: Working for others for salary/wages." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Classification of Business Activities",
+      "children": [
+        {
+          "title": "Industry",
+          "children": [
+            { "title": "Primary: Extractive (agriculture, mining)." },
+            { "title": "Secondary: Manufacturing and construction." },
+            { "title": "Tertiary: Services (transport, banking, insurance)." }
+          ]
+        },
+        {
+          "title": "Commerce",
+          "children": [
+            { "title": "Trade: Buying and selling of goods." },
+            { "title": "Aids to Trade: Transport, banking, insurance, warehousing, advertising, communication." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Characteristics of Business Activities",
+      "children": [
+        {
+          "title": "Economic Activity",
+          "children": [
+            { "title": "Business is undertaken to earn money or livelihood." }
+          ]
+        },
+        {
+          "title": "Production or Procurement of Goods and Services",
+          "children": [
+            { "title": "Goods may be produced or procured from producers for sale." }
+          ]
+        },
+        {
+          "title": "Sale or Exchange of Goods and Services",
+          "children": [
+            { "title": "There must be sale or exchange of goods/services for value." }
+          ]
+        },
+        {
+          "title": "Dealing in Goods and Services on a Regular Basis",
+          "children": [
+            { "title": "Business involves regular dealings, not one-time transactions." }
+          ]
+        },
+        {
+          "title": "Profit Earning",
+          "children": [
+            { "title": "The main purpose is to earn profit." }
+          ]
+        },
+        {
+          "title": "Uncertainty of Return",
+          "children": [
+            { "title": "Profit is uncertain and depends on many factors." }
+          ]
+        },
+        {
+          "title": "Element of Risk",
+          "children": [
+            { "title": "Business always involves risk of loss." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Objectives of Business",
+      "children": [
+        {
+          "title": "Economic Objectives",
+          "children": [
+            { "title": "Earning profit, creating customers, innovation, best use of resources." }
+          ]
+        },
+        {
+          "title": "Social Objectives",
+          "children": [
+            { "title": "Supplying quality goods, fair prices, employment, social welfare." }
+          ]
+        },
+        {
+          "title": "Human Objectives",
+          "children": [
+            { "title": "Welfare of employees, development of human resources, participation in management." }
+          ]
+        },
+        {
+          "title": "National Objectives",
+          "children": [
+            { "title": "Creation of employment, promotion of social justice, contribution to GDP, development of backward areas." }
+          ]
+        },
+        {
+          "title": "Global Objectives",
+          "children": [
+            { "title": "Raise international business standards, create global employment, contribute to world peace." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Role of Profit in Business",
+      "children": [
+        { "title": "Profit is a reward, source of capital, measure of efficiency, and survival." },
+        { "title": "Profit is necessary for expansion and innovation." }
+      ]
+    },
+    {
+      "title": "6. Business Risks",
+      "children": [
+        {
+          "title": "Nature of Business Risks",
+          "children": [
+            { "title": "Risks arise due to uncertainties and are an inherent part of business." },
+            { "title": "Risks may result in loss or lower profits." }
+          ]
+        },
+        {
+          "title": "Causes of Business Risks",
+          "children": [
+            { "title": "Natural: Floods, earthquakes, etc." },
+            { "title": "Human: Carelessness, strikes, theft, etc." },
+            { "title": "Economic: Price changes, competition, demand fluctuations." },
+            { "title": "Other: Political instability, legal changes, etc." }
+          ]
+        },
+        {
+          "title": "Ways to Minimize Risks",
+          "children": [
+            { "title": "Insurance, diversification, careful planning, safety measures." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. Role of Business in Society",
+      "children": [
+        { "title": "Provides goods and services, creates employment, improves standard of living, supports social causes." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+Business Studies Modular Webapp Plan
+====================================
+
+1. Project Structure (Modular)
+-----------------------------
+/business-studies-app/
+│
+├── index.html                # Main entry, navigation, loads modules dynamically
+├── style.css                 # Global styles
+├── script.js                 # Main app logic, dynamic loading
+│
+├── /chapters/
+│   ├── chapter1/
+│   │   ├── mindmap.json
+│   │   ├── flashcards.json
+│   │   ├── questions.json
+│   │   └── exercises.json
+│   ├── chapter2/
+│   │   ├── mindmap.json
+│   │   ├── flashcards.json
+│   │   ├── questions.json
+│   │   └── exercises.json
+│   └── ... (up to chapter8)
+│
+├── /components/
+│   ├── mindmap.js            # Renders mindmap from JSON
+│   ├── flashcards.js         # Renders flashcards from JSON
+│   ├── questions.js          # Renders practice questions from JSON (exam-aligned, interactive)
+│   └── exercises.js          # Renders exercises from JSON (exam-aligned, interactive)
+│
+├── /assets/                  # Images, icons, etc.
+│
+├── SQP_Summary.txt           # Sample question paper reference
+├── MS_summary.txt            # Mark allocation reference
+│
+└── README.md                 # Instructions and Moodle upload guide
+
+2. Modular Functionality
+------------------------
+- Each chapter has its own folder and JSON files for mindmap, flashcards, questions, and exercises.
+- Each functionality (mindmap, flashcards, questions, exercises) has its own JS component for rendering and logic.
+- The main script (script.js) handles navigation, loads the correct chapter and component as needed.
+- Both questions and exercises are interactive: users can submit answers, receive instant validation and feedback, and earn points for correct answers.
+- Both questions and exercises will be designed to match the question types, structure, and mark allocation found in SQP_Summary.txt and MS_summary.txt, ensuring realistic exam practice.
+- **Text-to-Speech (TTS) feature:** Start and Stop buttons will be available on every page to read aloud the current content, making the app accessible and helpful for students who prefer listening.
+
+3. Question & Exercise Types & Answering Approach
+-------------------------------------------------
+- **Multiple-Choice Questions (MCQs):** Single correct answer, instant validation, 1 mark each.
+- **Assertion-Reason Questions:** User selects the correct relationship, instant validation, 1–2 marks each.
+- **Short Answer Questions:** User types a brief response (50–75 words), app checks for key phrases, model answer shown, 3–4 marks.
+- **Long Answer/Case-Based Questions:** User writes a longer response (150–200 words), app shows model answer/rubric for self-assessment, 6 marks.
+- All questions and exercises provide instant feedback and display points/score after each set.
+
+4. Content Creation & Coverage Checklist
+----------------------------------------
+- For each chapter, create a checklist of all headings, subheadings, and key points from the textbook.
+- As you create mindmaps, flashcards, questions, and exercises, reference the checklist and mark off each point as it is included.
+- Optionally, add a `chapterX_coverage.txt` file in each chapter folder, mapping book points to app content for easy review.
+- After content creation, review the checklist and app content side by side to ensure nothing is missed.
+- If you provide the full text or headings, AI can help extract and map all points for you.
+- After the first draft, review with your son or a teacher to confirm all exam-relevant points are included.
+
+5. Workflow
+-----------
+1. Scaffold the folders and files as above.
+2. Develop each component (mindmap.js, flashcards.js, questions.js, exercises.js) to fetch and render its data from the relevant JSON file.
+3. Navigation: User selects a chapter and a feature (mindmap, flashcards, questions, exercises); the app loads the corresponding JSON and renders it using the appropriate component.
+4. Content: You or your son can edit the JSON files for each chapter and feature—no need to touch the main code.
+5. Moodle Upload: All static files, easy to zip and upload.
+
+6. Benefits
+-----------
+- Easy to maintain: Update or add chapters/features without touching the main code.
+- Scalable: Add more chapters or features in the future.
+- Reusable: Components can be reused for other subjects or books.
+- Coverage assurance: The checklist process ensures all textbook points are included for exam prep.
+- Interactive learning: Questions and exercises provide validation, feedback, and points to motivate and reinforce learning.
+- Exam alignment: All questions and exercises are modeled after the official sample paper and marking scheme for maximum relevance.
+- **Accessibility:** TTS makes the app usable for students who prefer listening or have reading difficulties.
+
+7. Next Steps
+-------------
+- I will scaffold the folder structure and create a working example for Chapter 1 (all features).
+- You can review and request changes before I generate the rest.

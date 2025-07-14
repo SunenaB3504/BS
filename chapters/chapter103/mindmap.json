@@ -1,0 +1,170 @@
+{
+  "title": "Business Environment",
+  "nodes": [
+    {
+      "title": "Meaning of Business Environment",
+      "children": [
+        {"title": "Sum total of all individuals, institutions, and forces outside a business that affect its performance"},
+        {"title": "Includes economic, social, political, technological, and legal forces"},
+        {"title": "External to the business but influence its operations"}
+      ]
+    },
+    {
+      "title": "Features of Business Environment",
+      "children": [
+        {"title": "Totality of external forces", "children": [
+          {"title": "Business environment is the sum total of all things external to business firms and is aggregative in nature."}
+        ]},
+        {"title": "Specific and general forces", "children": [
+          {"title": "Specific: Investors, customers, competitors, suppliers (direct impact)"},
+          {"title": "General: Social, political, legal, technological (indirect impact)"}
+        ]},
+        {"title": "Inter-relatedness of elements", "children": [
+          {"title": "Change in one element affects others (e.g., health awareness increases demand for health products)"}
+        ]},
+        {"title": "Dynamic nature", "children": [
+          {"title": "Environment keeps changing due to technology, consumer preferences, competition"}
+        ]},
+        {"title": "Uncertainty", "children": [
+          {"title": "Difficult to predict future happenings, especially with frequent changes"}
+        ]},
+        {"title": "Complexity", "children": [
+          {"title": "Numerous interrelated and dynamic conditions from different sources"}
+        ]},
+        {"title": "Relativity", "children": [
+          {"title": "Environment differs from country to country and region to region"}
+        ]}
+      ]
+    },
+    {
+      "title": "Importance of Business Environment",
+      "children": [
+        {"title": "Identifying opportunities and first mover advantage", "children": [
+          {"title": "Early identification helps exploit opportunities before competitors (e.g., Maruti in small cars)"}
+        ]},
+        {"title": "Identifying threats and early warning signals", "children": [
+          {"title": "Awareness of threats helps prepare for challenges (e.g., foreign MNCs entering Indian market)"}
+        ]},
+        {"title": "Tapping useful resources", "children": [
+          {"title": "Environment is a source of inputs (finance, materials, labor) and outlet for outputs"}
+        ]},
+        {"title": "Coping with rapid changes", "children": [
+          {"title": "Managers must adapt to dynamic environment (e.g., technology, competition)"}
+        ]},
+        {"title": "Assisting in planning and policy formulation", "children": [
+          {"title": "Analysis of environment guides future actions and decision making"}
+        ]},
+        {"title": "Improving performance", "children": [
+          {"title": "Firms that monitor and adapt to environment perform better and succeed longer"}
+        ]}
+      ]
+    },
+    {
+      "title": "Dimensions of Business Environment",
+      "children": [
+        {
+          "title": "Economic Environment",
+          "children": [
+            {"title": "Interest rates, inflation, disposable income, stock market indices, value of rupee"},
+            {"title": "Economic structure: private and public sectors, growth rates, savings, investment, imports/exports, balance of payments"},
+            {"title": "Economic policies: industrial, monetary, fiscal, planning, budgets"},
+            {"title": "Infrastructural factors: finance, banks, transport, communication"},
+            {"title": "Example: Low interest rates increase demand for homes and cars"}
+          ]
+        },
+        {
+          "title": "Social Environment",
+          "children": [
+            {"title": "Customs, traditions, values, social trends, society's expectations"},
+            {"title": "Demographics: life expectancy, literacy, population shifts, family composition"},
+            {"title": "Consumption habits, quality of life, health trends"},
+            {"title": "Example: Festivals like Diwali create opportunities for sweets and greeting card businesses"}
+          ]
+        },
+        {
+          "title": "Technological Environment",
+          "children": [
+            {"title": "Scientific improvements and innovations"},
+            {"title": "New production methods, new products, automation"},
+            {"title": "Impact on advertising, distribution, and business operations"},
+            {"title": "Example: Online ticket booking systems in Indian Railways"}
+          ]
+        },
+        {
+          "title": "Political Environment",
+          "children": [
+            {"title": "Political stability and peace"},
+            {"title": "Government attitudes and intervention"},
+            {"title": "Political institutions, ideologies, leadership"},
+            {"title": "Example: Political stability encourages long-term investment by businesses"}
+          ]
+        },
+        {
+          "title": "Legal Environment",
+          "children": [
+            {"title": "Legislations, administrative orders, court judgments"},
+            {"title": "Compliance with laws: Companies Act, Factories Act, Consumer Protection Act, etc."},
+            {"title": "Impact of legal regulations on business operations"},
+            {"title": "Example: Ban on advertising alcoholic beverages and statutory warnings on cigarette packets"}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Key Terms and Summary Points",
+      "children": [
+        {"title": "Business environment: totality of all individuals, institutions, and forces outside a business that affect its performance"},
+        {"title": "Opportunities: positive external trends that help a firm improve performance"},
+        {"title": "Threats: external trends that hinder a firm's performance"},
+        {"title": "Economic environment: macro-level factors affecting business and industry"},
+        {"title": "Liberalisation: removal of licensing and controls"},
+        {"title": "Privatisation: greater role for private sector, disinvestment"},
+        {"title": "Globalisation: integration with world economy"},
+        {"title": "Demonetisation: stripping currency of legal tender status"},
+        {"title": "First mover advantage: benefit of exploiting an opportunity before competitors"},
+        {"title": "Early warning signals: advance notice of threats"},
+        {"title": "Disinvestment: transfer of public sector to private sector"},
+        {"title": "Market orientation: adapting business to meet market trends and customer needs"},
+        {"title": "Example: Demonetisation led to increased digital transactions and tax compliance"},
+        {"title": "Example: Globalisation allows Indian companies to operate worldwide"}
+      ]
+    },
+    {
+      "title": "Economic Environment in India",
+      "children": [
+        {"title": "Stage of economic development, mixed economy, government policies"},
+        {"title": "Economic reforms since 1991: liberalisation, privatisation, globalisation"},
+        {"title": "Impact of government policy changes on business and industry"}
+      ]
+    },
+    {
+      "title": "Key Policy Changes (1991 Onwards)",
+      "children": [
+        {"title": "Liberalisation: removal of licensing, freedom in business decisions, reduced controls"},
+        {"title": "Privatisation: greater role for private sector, disinvestment in public sector"},
+        {"title": "Globalisation: integration with world economy, free flow of goods, capital, technology"},
+        {"title": "Demonetisation: 2016 policy, impact on cash, digitalisation, tax compliance"}
+      ]
+    },
+    {
+      "title": "Impact of Policy Changes",
+      "children": [
+        {"title": "Increased competition"},
+        {"title": "More demanding customers"},
+        {"title": "Rapidly changing technology"},
+        {"title": "Necessity for change and innovation"},
+        {"title": "Need for developing human resources"},
+        {"title": "Market orientation"},
+        {"title": "Loss of budgetary support to public sector"}
+      ]
+    },
+    {
+      "title": "Case Example: Dharamveer Kamboj",
+      "children": [
+        {"title": "Innovation in food processing machines for unorganised sector"},
+        {"title": "Overcoming challenges through persistence and creativity"},
+        {"title": "Positive social, economic, and technological impact"}
+      ]
+    }
+  ]
+}
