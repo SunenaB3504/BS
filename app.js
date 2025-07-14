@@ -25,7 +25,8 @@ let ttsIsSpeaking = false;
 let currentSection = 'mindmap';
 
 function getChapterPath(filename) {
-  return `../chapters/chapter${currentChapter}/${filename}`;
+  // Use a relative path so it works both locally and on GitHub Pages (repo subfolder)
+  return `chapters/chapter${currentChapter}/${filename}`;
 }
 
 async function loadQuestions(type) {
